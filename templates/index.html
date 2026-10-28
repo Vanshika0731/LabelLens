@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LabelLens — Food Scanner & Product Checker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar" id="home"><a class="brand" href="#home"><span class="brand-mark">✳</span><span>LabelLens<small>FOOD SCANNER & PRODUCT CHECKER</small></span></a><nav><a href="#scan">Scan</a><a href="#history">History</a><a href="#about">About</a></nav><button class="theme-toggle" id="themeBtn" aria-label="Toggle dark mode" title="Toggle theme">◐</button></header>
+<main>
+<section class="hero"><div><span class="eyebrow">YOUR FOOD, UNDERSTOOD</span><h1>Know what’s <span>inside.</span></h1><p>Scan an ingredient label, review each model-assigned category, and make more informed choices.</p><a class="primary-link" href="#scan">Scan a product <span>↘</span></a></div><div class="hero-art" aria-hidden="true"><div class="sun"></div><div class="food-card card-one"><span class="food-emoji">🥫</span><b>Read the label</b><small>OCR text extraction</small></div><div class="food-card card-two"><span class="food-emoji">🌿</span><b>Review ingredients</b><small>Model categories</small></div><div class="art-leaf">✳</div></div></section>
+<div class="section-heading" id="scan"><div><span class="eyebrow">STEP 01 · SCAN</span><h2>Food ingredient scan</h2><p>Take a photo or choose an image of the ingredient list.</p></div><span class="secure-chip">● Image stays in this session</span></div>
+<section class="workspace">
+<div class="panel upload-panel"><div class="panel-title"><span class="step-icon pink">▧</span><div><h3>Add product image</h3><p>Use a clear, well-lit ingredient label</p></div></div>
+<label class="field-label" for="productName">Product name <span>(optional)</span></label><input id="productName" class="text-input" type="text" maxlength="80" placeholder="e.g. Breakfast cereal">
+<div class="drop-zone" id="dropZone" tabindex="0" role="button" aria-label="Choose ingredient label image"><input id="fileInput" type="file" accept="image/jpeg,image/png,image/webp" hidden><div class="upload-symbol">↑</div><b>Drop your label image here</b><span>or choose how to add it</span><div class="choose-actions"><button type="button" id="cameraBtn" class="secondary-btn">◎ Take photo</button><button type="button" id="browseBtn" class="secondary-btn">▧ Browse files</button></div><small>JPG, PNG or WEBP · up to 5 MB</small></div>
+<div class="preview-heading"><b>Image preview</b><button id="clearBtn" class="text-btn" type="button">Remove image</button></div><div class="preview-box" id="previewBox"><div class="preview-empty"><span>▧</span><p>Your selected image will appear here</p></div><img id="previewImg" alt="Selected ingredient label" hidden></div>
+<button id="analyzeBtn" class="analyze-btn" disabled>Analyze ingredients <span>→</span></button><p id="errorBox" class="error-box" role="alert" hidden></p><p class="micro-note">Tip: crop close to the ingredients panel and keep the text in focus.</p>
+</div>
+<div class="panel result-panel" id="results"><div class="panel-title"><span class="step-icon green">✓</span><div><h3>Product analysis</h3><p>Results from your connected Flask model</p></div><span class="status-chip" id="resultState">WAITING</span></div>
+<div id="emptyResults" class="empty-state"><div class="empty-illustration">🥬</div><h3>Your product details will appear here</h3><p>Upload a label and tap <b>Analyze ingredients</b> to see extracted ingredients and categories.</p><div class="mini-steps"><span>01 Read</span><span>02 Classify</span><span>03 Review</span></div></div>
+<div id="loadingResults" class="loading-state" hidden><div class="spinner"></div><h3>Reading your label…</h3><p>OCR and ingredient classification are running.</p></div>
+<div id="resultsContent" hidden>
+<div class="product-result"><div class="product-thumb" id="resultThumb">🥫</div><div class="product-info"><small>PRODUCT</small><h3 id="resultProductName">Scanned product</h3><p id="resultSummary">Ingredient summary</p></div><button id="shareBtn" class="round-btn" title="Share result" aria-label="Share result">↗</button><button id="downloadBtn" class="round-btn" title="Download report" aria-label="Download report">↓</button></div>
+<div class="score-strip"><div><small>MODEL CONFIDENCE</small><strong id="scoreValue">—</strong></div><div class="score-bar"><span id="scoreBar"></span></div><span class="score-label">estimate</span></div>
+<div class="overall-card" id="overallCard"><span class="overall-icon" id="overallIcon">✓</span><div><small>OVERALL MODEL ASSESSMENT</small><h3 id="overallStatus">—</h3><p id="recommendationText">—</p></div></div>
+<div class="stats"><div class="stat green-stat"><span>● Green</span><b id="greenCount">0</b><small>ingredients</small></div><div class="stat yellow-stat"><span>● Yellow</span><b id="yellowCount">0</b><small>ingredients</small></div><div class="stat orange-stat"><span>● Orange</span><b id="orangeCount">0</b><small>ingredients</small></div><div class="stat red-stat"><span>● Red</span><b id="redCount">0</b><small>ingredients</small></div></div>
+<div class="ingredient-header"><div><h3>Ingredient details</h3><p id="itemCount">0 ingredients found</p></div><label class="search-wrap"><span>⌕</span><input id="ingredientSearch" type="search" placeholder="Search ingredients" aria-label="Search ingredients"></label></div>
+<div class="tabs" role="tablist" aria-label="Filter ingredient list"><button class="tab active" data-filter="all" role="tab" aria-selected="true">All ingredients</button><button class="tab" data-filter="negative" role="tab" aria-selected="false">Review needed</button><button class="tab" data-filter="positive" role="tab" aria-selected="false">Green labels</button></div>
+<div id="ingredientList" class="ingredient-list"></div><p id="noIngredients" class="no-items" hidden>No ingredients match this filter.</p><div class="disclaimer">ⓘ These are model-assigned categories, not verified medical or food-safety advice. OCR can misread labels; check the package text yourself.</div>
+</div></div>
+</section>
+<section class="history-section" id="history"><div class="section-heading"><div><span class="eyebrow">YOUR RECENT SCANS</span><h2>Scan history</h2><p>Recent scans are stored in this browser only.</p></div><button id="clearHistoryBtn" class="secondary-btn">Clear history</button></div><div id="historyList" class="history-list"><div class="history-empty">No scans yet. Your completed scans will show up here.</div></div></section>
+<section class="about-section" id="about"><div><span class="eyebrow">ABOUT LABELLENS</span><h2>More informed choices, one label at a time.</h2></div><p>LabelLens uses OCR to read ingredient labels and your existing classification model to group ingredient names. It can make mistakes, so use the results as a guide—not as a guarantee that a product is safe or harmful.</p></section>
+</main><footer><a class="brand footer-brand" href="#home"><span class="brand-mark">✳</span><span>LabelLens<small>SCAN · ANALYZE · REVIEW</small></span></a><span>Made for clearer ingredient-label reviews.</span><a href="#home">Back to top ↑</a></footer>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body></html>

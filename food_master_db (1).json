@@ -1,0 +1,3260 @@
+{
+  "water": {
+    "label": "Green",
+    "category": "Solvent",
+    "e_number": "",
+    "synonyms_india": "Pani | Jal | Neeru | Thanni | Vellam"
+  },
+  "salt": {
+    "label": "Green",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": "Namak | Noon | Uppu | Lavana | Meetha namak | Iodised namak | Table salt"
+  },
+  "sugar": {
+    "label": "Green",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Cheeni | Shakkar | Chakkara | Sarkar | Shakhar | Sakkarai | Panjasara"
+  },
+  "jaggery": {
+    "label": "Green",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Gur | Gud | Vellam | Bella | Bellam | Gul | Nolen gur | Khandsari"
+  },
+  "honey": {
+    "label": "Green",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Shahad | Madhu | Then | Thene | Tene | Mahu"
+  },
+  "coconut sugar": {
+    "label": "Green",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Nariyal cheeni | Narial shakkar | Thengai shakkarai | Kobbari shakkar"
+  },
+  "wheat flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Atta | Gehun atta | Godhuma pindi | Godhumai maavu | Godi hittu | Godhuma | Maida (refined) | Chapati atta"
+  },
+  "rice flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Chawal ka atta | Chaul pith | Arisi maavu | Biyyam pindi | Akki hittu | Ari podi"
+  },
+  "maize flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Makka atta | Bhutta atta | Cholam maavu | Makkajonna | Jovari peeth"
+  },
+  "chickpea flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Besan | Gram flour | Chana atta | Kadalai maavu | Senagala pindi | Kadala mavu | Harbharyacha pith"
+  },
+  "semolina": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Suji | Rava | Sooji | Rawa | Semiya rava | Sajji | Bombay rava | Chiroti rava"
+  },
+  "oats": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Jai | Jaee | Javi | Oat daliya"
+  },
+  "barley": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Jau | Yav | Barlai | Yavam | Jave"
+  },
+  "rye flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Rai ka atta | Raay"
+  },
+  "sorghum flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Jowar atta | Jonna atta | Cholam maavu | Jwari pith | Jowari"
+  },
+  "millet flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Bajra atta | Bajri | Bajri no lot | Kambu maavu | Sajje hittu | Sajja pindi"
+  },
+  "tapioca flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Sabudana atta | Kochu pith | Maravalli kilangu maavu | Sago flour | Cassava flour"
+  },
+  "arrowroot powder": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Ararot | Paniphal starch | Koova podi | Araruttu"
+  },
+  "buckwheat flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Kuttu ka atta | Kuttu | Kutti pindi | Papparai maavu"
+  },
+  "amaranth flour": {
+    "label": "Green",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": "Rajgira atta | Ramdana atta | Chaulai atta | Rajgiri"
+  },
+  "milk": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Doodh | Dudh | Paal | Haalu | Pala | Duth | Pal"
+  },
+  "cream": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Malai | Cream | Paalu cream | Toping malai"
+  },
+  "butter": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Makhan | Makkhan | Vennai | Venna | Benne | Loni | Navaneet"
+  },
+  "ghee": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Desi ghee | Ghi | Nei | Tuppa | Tup | Ghrit | Clarified butter"
+  },
+  "paneer": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Cottage cheese | Chhena | Chhana | Ponir | Chena"
+  },
+  "curd": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Dahi | Doi | Thayir | Perugu | Mosaru | Moru | Tak | Dadhi"
+  },
+  "whey": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Matha | Mattha | Chach | Nimbu wala doodh paani | Whey protein"
+  },
+  "buttermilk": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Chaach | Chhaas | Mor | Majjiga | Majjige | Moru | Taak | Lassi"
+  },
+  "skimmed milk": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Toned milk | Double toned milk | Skimmed doodh"
+  },
+  "buffalo milk": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Bhains ka doodh | Eruttu paal | Goduma haalu"
+  },
+  "goat milk": {
+    "label": "Green",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Bakri ka doodh | Aatu paal | Meke haalu"
+  },
+  "eggs": {
+    "label": "Green",
+    "category": "Animal Product",
+    "e_number": "",
+    "synonyms_india": "Anda | Mutta | Guddu | Motte | Mottai | Andi"
+  },
+  "chicken": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Murgi | Murga | Koli | Kodi | Kukuda | Kozhi | Kombdi"
+  },
+  "fish": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Machli | Machi | Meen | Chepalu | Meenam | Maas"
+  },
+  "mutton": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Bakra gosht | Lamb | Adu kari | Meda kari | Yeli mas | Mendyache mas"
+  },
+  "prawns": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Jhinga | Chingri | Eral | Royyalu | Sungata | Chemmeen | Kolambi"
+  },
+  "beef": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Gai ka gosht | Gorur mas | Maattu kari | Beef gosht"
+  },
+  "pork": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Suar ka gosht | Bandel | Panni kari | Pork gosht | Sukar mas"
+  },
+  "turkey": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Turkey murgi | Piru murga"
+  },
+  "duck": {
+    "label": "Green",
+    "category": "Meat",
+    "e_number": "",
+    "synonyms_india": "Batakh | Batakha | Hans | Duck gosht"
+  },
+  "salmon": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Salman machli | Rawas (similar)"
+  },
+  "tuna": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Tuna machli | Choora | Soorai"
+  },
+  "crab": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Kekda | Kakka | Nandu | Peetha | Njandu"
+  },
+  "lobster": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Jhumra machli | Iral | Langoustine"
+  },
+  "squid": {
+    "label": "Green",
+    "category": "Seafood",
+    "e_number": "",
+    "synonyms_india": "Squid machli | Kadamba | Kanava"
+  },
+  "tomato": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Tamatar | Tamater | Thakkali | Tamata | Tomate | Vilayati baigan"
+  },
+  "onion": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Pyaaz | Pyaj | Vengayam | Ullipaya | Eerulli | Savala | Kanda"
+  },
+  "potato": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Aloo | Alu | Urulai kilangu | Bangaladumpa | Batata | Aaloo | Alu"
+  },
+  "carrot": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Gajar | Gaajar | Karot | Gajara | Mangalore carrot"
+  },
+  "spinach": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Palak | Paalak | Pasalai keerai | Palakura | Baapalya | Cheera | Palakchi bhaaji"
+  },
+  "cabbage": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Patta gobi | Band gobi | Muttaikose | Cabbage kosu | Kobi"
+  },
+  "cauliflower": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Phool gobi | Phool gobhi | Cauliflower kosu | Gova | Fulkopi"
+  },
+  "broccoli": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Hari gobi | Broccoli gobi | Broccoli phool"
+  },
+  "eggplant": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Baingan | Brinjal | Kathirikkai | Vankaya | Badanekai | Vazhuthananga | Vangi"
+  },
+  "okra": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Bhindi | Bhendi | Vendakkai | Bendakaya | Bendekai | Vendakka | Bendo"
+  },
+  "bitter gourd": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Karela | Pavakkai | Kakarakaya | Hagalakai | Paavakka | Karle"
+  },
+  "bottle gourd": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Lauki | Ghiya | Sorekai | Sorakaya | Laau | Dudhi | Bottle gourd"
+  },
+  "ridge gourd": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Torai | Turai | Peerkangai | Beerakai | Heerekai | Peechil | Dodka"
+  },
+  "pumpkin": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Kaddu | Kumhra | Poosanikai | Gummadikaya | Kumbalakai | Mathanga | Lal bhopla"
+  },
+  "sweet potato": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Shakarkandi | Sakkaravalli kilangu | Chilagada dumpa | Genasu | Madhura kilangu | Ratalu"
+  },
+  "yam": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Suran | Zimikand | Senai kilangu | Kanda | Suvarna gedde | Chena | Karanda"
+  },
+  "radish": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Mooli | Mullangi | Mullangi | Mula | Mulangi | Muli"
+  },
+  "beetroot": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Chukandar | Beetroot | Bit | Beet"
+  },
+  "green beans": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Faras bean | Cluster beans | French beans | Seemai avarai | Chikkudu | Hurali kai"
+  },
+  "peas": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Matar | Mutter | Pattani | Batani | Hasiru batani | Peas dal | Vatana"
+  },
+  "corn": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Makka | Bhutta | Cholam | Makkajonna | Musukina jola | Corn | Makai"
+  },
+  "zucchini": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Courgette | Hari zucchini | Turai jaisi sabzi"
+  },
+  "cucumber": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Kheera | Kakdi | Vellarikkai | Dosakaya | Sauthekai | Vellarikka | Kaakdi"
+  },
+  "bell pepper": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Shimla mirch | Capsicum | Kudamilagai | Capsi | Donne menasinkai | Shimla mirchi"
+  },
+  "lettuce": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Salad patta | Salad ke patte | Lettuce patta"
+  },
+  "celery": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Ajwain patta | Celery patta | Ajmoda"
+  },
+  "asparagus": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Shatavari | Asparagus sabzi"
+  },
+  "mushroom": {
+    "label": "Green",
+    "category": "Vegetable",
+    "e_number": "",
+    "synonyms_india": "Mushroom | Khumb | Khumbi | Koon | Puttu kalan"
+  },
+  "garlic": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Lahsun | Lasan | Poondu | Velluli | Bellulli | Veluthulli | Lasun"
+  },
+  "ginger": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Adrak | Adarak | Inji | Allam | Shunti | Inchi | Aale"
+  },
+  "turmeric": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Haldi | Haldee | Manjal | Pasupu | Arisina | Manjal podi | Halad"
+  },
+  "red chilli": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Lal mirch | Lal mirchi | Lal mircha | Milagai | Endu mirapa | Kempu menasinkai | Mulaku | Tikhat mirchi"
+  },
+  "green chilli": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Hari mirch | Hari mirchi | Pachai milagai | Pacchi mirapakaya | Hasiru menasinkai | Pacha mulaku | Hirvi mirchi"
+  },
+  "coriander": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Dhania | Dhaniya | Kothamalli | Dhaniyalu | Kothambri | Malli | Kothimbir"
+  },
+  "cumin": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Jeera | Jira | Seeragam | Jilakarra | Jeerige | Jeerakam | Jire"
+  },
+  "black pepper": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Kali mirch | Kali mirchi | Milagu | Miriyalu | Kari menasinkai | Kurumulaku | Miri"
+  },
+  "cardamom": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Elaichi | Elachi | Elakkai | Elakki | Yelakki | Elam | Veldoda"
+  },
+  "cloves": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Laung | Long | Lavangam | Lavangalu | Lavanga | Karayampoo | Lavang"
+  },
+  "cinnamon": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Dalchini | Dalcheeni | Pattai | Dalchina chekka | Lavanga patte | Karuvapatta | Taj"
+  },
+  "bay leaf": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Tej patta | Biryani patta | Brinji ilai | Biryani aaku | Biryani ele | Karuvaepila | Tamalpatra"
+  },
+  "mustard seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Rai | Sarso | Kadugu | Aavalu | Sasive | Kaduku | Mohri"
+  },
+  "fenugreek": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Methi | Methi dana | Venthayam | Menthulu | Menthya | Uluva | Methya"
+  },
+  "carom seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Ajwain | Ajwaayan | Omam | Vamu | Oma | Ayamodakam | Ova"
+  },
+  "asafoetida": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Hing | Heeng | Perungayam | Inguva | Hingu | Kayam | Hing powder"
+  },
+  "fennel seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Saunf | Souf | Sombu | Sopu | Saunf beej | Badisep | Badi saunf"
+  },
+  "star anise": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Chakra phool | Biryani phool | Illu masal | Anasi puvvu | Star anise masala"
+  },
+  "nutmeg": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Jaiphal | Jayfal | Jatikkai | Jajikaya | Jaayi phala | Jathikka | Jayaphal"
+  },
+  "mace": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Javitri | Jaapatri | Jatipathiri | Jaayi poo | Jayapatri"
+  },
+  "saffron": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Kesar | Zafran | Kumkumapoo | Kumkuma puvvu | Kesara | Kunjumam | Keshar"
+  },
+  "poppy seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Khus khus | Kas kas | Kasa kasa | Gasagasalu | Khaskhas | Posto | Afim ke beej"
+  },
+  "sesame seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Til | Till | Ellu | Nuvvulu | Yellu | Ellu | Teel"
+  },
+  "nigella seeds": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Kalonji | Mangrail | Karuppu ellu | Krishna jilakarra | Karimjeerakam | Nalla jilakarra | Kale til"
+  },
+  "dried mango powder": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Amchur | Amchoor | Mango powder | Khatai | Kairi powder"
+  },
+  "kokum": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Kokam | Aamsol | Amsul | Gamboge | Bhirand | Punampuli | Murgal"
+  },
+  "tamarind": {
+    "label": "Green",
+    "category": "Spice",
+    "e_number": "",
+    "synonyms_india": "Imli | Imlee | Puli | Chinta pandu | Hunise hannu | Puli | Chinchecha kala"
+  },
+  "curry leaves": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Kadi patta | Karivepaku | Karivepilai | Karibevu | Karuvepilai | Meetha neem | Kadhilimb"
+  },
+  "mint": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Pudina | Pudhina | Pudinaa | Pudina patti | Pudina patta | Pudina leaves"
+  },
+  "kasuri methi": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Dried fenugreek leaves | Methi patti | Kasori methi | Sukhi methi | Methi leaves"
+  },
+  "coriander leaves": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Hara dhania | Kothamalli | Kothimira | Kottambari soppu | Kothampalavu | Kothimbir patta"
+  },
+  "basil": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Tulsi | Sabja | Tulasi | Thiruneetru pachai | Sabbasige soppu | Tirunitru"
+  },
+  "rosemary": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Gulmehendi | Rusmary | Rosemary patti"
+  },
+  "thyme": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Banajwain | Ajwain ki jati | Karpooravalli"
+  },
+  "oregano": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Sathra | Mirzanjosh | Omam poo"
+  },
+  "parsley": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Vilayati dhania | Ajmod patti | Ajmoda"
+  },
+  "dill": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Soya saag | Shepu | Suva bhaji | Sadkuppa"
+  },
+  "lemongrass": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Nimbu ghaas | Citronella | Agar ghaas | Vasanapullu"
+  },
+  "pandan leaves": {
+    "label": "Green",
+    "category": "Herb",
+    "e_number": "",
+    "synonyms_india": "Kewda patta | Rampe | Annapurna patta"
+  },
+  "sunflower oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Surajmukhi tel | Suryafool tel | Puvvula noone | Sunflower tel"
+  },
+  "mustard oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Sarson ka tel | Rai tel | Kadugu ennai | Avalu noone | Sasive enne | Kadukenna"
+  },
+  "coconut oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Nariyal tel | Narikel tel | Thengai ennai | Kobbari noone | Thengai enne | Vennenna | Naral tel"
+  },
+  "groundnut oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Moongfali tel | Moonphali tel | Kadala ennai | Pallilu noone | Shenga tel | Peanut oil"
+  },
+  "sesame oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Til ka tel | Nalla ennai | Nuvvula noone | Yellenne | Nallenna | Teel tel"
+  },
+  "olive oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Jaitun ka tel | Jaitoon tel | Zeitoon tel"
+  },
+  "rice bran oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Chawal ki bhusi ka tel | Rice bran tel"
+  },
+  "safflower oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Kusum tel | Kardi tel | Kusumba tel"
+  },
+  "flaxseed oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Alsi ka tel | Jawas tel | Agasi enne | Linseed oil"
+  },
+  "walnut oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Akhrot ka tel | Akhrode tel"
+  },
+  "hemp seed oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Bhang ka tel | Bhang beej tel"
+  },
+  "avocado oil": {
+    "label": "Green",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Makhanphal tel | Butter fruit oil"
+  },
+  "lentils": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Dal | Masoor dal | Daal | Paruppu | Pappu | Bele | Parippu"
+  },
+  "chickpeas": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Chana | Kabuli chana | Chole | Kondakadalai | Senagalu | Kadle | Harbhara | Chholiya"
+  },
+  "kidney beans": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Rajma | Lal lobia | Rajmah | Red beans | Lal beans | Rajmachi"
+  },
+  "black gram": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Urad dal | Urad | Ulundu | Minumulu | Uddina bele | Uzhunnu | Udid dal"
+  },
+  "green gram": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Moong dal | Mung | Pachai payaru | Pesalu | Hesaru bele | Cherupayar | Moog dal"
+  },
+  "pigeon peas": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Toor dal | Arhar dal | Tuvar dal | Tuvaram paruppu | Kandipappu | Togari bele | Thuvara parippu"
+  },
+  "horse gram": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Kulthi | Kulith | Kollu | Ulavalu | Huruli | Muthira | Kulath dal"
+  },
+  "moth beans": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Matki | Moth | Matki bean | Matki usal"
+  },
+  "soybeans": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Soy | Soya bean | Bhatmas | Soyabean | Soya"
+  },
+  "black-eyed peas": {
+    "label": "Green",
+    "category": "Legume",
+    "e_number": "",
+    "synonyms_india": "Lobia | Chawli | Karamani | Bobbarlu | Alasande | Vanpayar | Chavli"
+  },
+  "peanuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Moongfali | Moonphali | Kadala | Verusenaga | Kadlekai | Nilakadalai | Shenga"
+  },
+  "cashews": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Kaju | Keshav | Munthiri | Jeedipappu | Godambi | Cashew nut | Kaju badam"
+  },
+  "almonds": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Badam | Badaam | Vadumai | Badam pappu | Badam | Baadami | Badam nuts"
+  },
+  "walnuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Akhrot | Akharot | Akrottu | Akrut | Akrode"
+  },
+  "pistachios": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Pista | Piste | Pista badam | Pista nut"
+  },
+  "hazelnuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Pahadi badam | Filbert | Fanduk"
+  },
+  "macadamia nuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Hawaii nut | Macadamia badam"
+  },
+  "pine nuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Chilgoza | Nejo | Chalghoza | Pine seed | Charoli (different but confused)"
+  },
+  "brazil nuts": {
+    "label": "Green",
+    "category": "Nut",
+    "e_number": "",
+    "synonyms_india": "Brazil badam | Para nut"
+  },
+  "flax seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Alsi | Alasi | Aviselu | Agasi | Cheruchana vithu | Jawas"
+  },
+  "chia seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Chia beej | Sabja (confused) | Tukmaria (confused)"
+  },
+  "pumpkin seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Kaddu ke beej | Kaddoo beej | Poosanikai vidhai | Gummadi vitthanalu"
+  },
+  "sunflower seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Surajmukhi ke beej | Puvvula vitthanalu | Puvvula beej"
+  },
+  "watermelon seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Tarbooz ke beej | Darbuz beej | Tharboosangai vidhai"
+  },
+  "hemp seeds": {
+    "label": "Green",
+    "category": "Seed",
+    "e_number": "",
+    "synonyms_india": "Bhang ke beej | Vijaya beej | Bhang seeds"
+  },
+  "mango": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Aam | Aamo | Manga | Mamidipandu | Mavinahannu | Maanga | Amb"
+  },
+  "banana": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Kela | Kele | Vazhai pazham | Arati pandu | Bale hannu | Vaazha | Kela"
+  },
+  "apple": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Seb | Saib | Apple pazham | Appu | Sebu | Safarchand"
+  },
+  "lemon": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Nimbu | Nimboo | Elumichai | Nimmakaya | Nimbe | Cherunaranga | Limbu"
+  },
+  "orange": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Santra | Narangi | Santara | Kichili palam | Narinja | Malta | Narangi"
+  },
+  "pineapple": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Ananas | Annanas | Anasi pazham | Anasa pandu | Ananas | Kaitha chakka"
+  },
+  "pomegranate": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Anar | Dadam | Maadhulampazham | Danimma pandu | Dalimbe | Urumampazham | Dalimb"
+  },
+  "guava": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Amrood | Peru | Koyyapazham | Jama | Perala | Pera"
+  },
+  "papaya": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Papita | Papeeta | Pappali | Boppai | Parangi | Omakaya | Papai"
+  },
+  "coconut": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Nariyal | Narikel | Thengai | Kobbari | Tenginkai | Nalikeram | Naral"
+  },
+  "grapes": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Angoor | Angur | Thirakshai | Drakshu | Drakshi | Munthiri | Draksha"
+  },
+  "strawberry": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Lal berry | Jharberi | Stawberi"
+  },
+  "blueberry": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Neel berry | Neeli berry | Falsa (similar)"
+  },
+  "muskmelon": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Kharbooja | Kharbuj | Kirni pazham | Kharbuja | Kharbuza | Kharbuja"
+  },
+  "watermelon": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Tarbooz | Tarbuj | Tharbusani | Tarbuja | Kalingad"
+  },
+  "jackfruit": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Kathal | Chakka | Panasa | Halasina hannu | Chakka | Fanas"
+  },
+  "litchi": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Lychee | Lichu | Litchu | Lijee"
+  },
+  "plum": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Aloo bukhara | Alucha | Aalucha"
+  },
+  "peach": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Aadoo | Aroo | Shaftalu | Saftaloo"
+  },
+  "pear": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Nashpati | Naspati | Babugosha"
+  },
+  "cherry": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Gilas | Griaas | Cherry phal"
+  },
+  "kiwi": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Kiwi phal | Chinese gooseberry | Kivi"
+  },
+  "avocado": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Makhanphal | Butter fruit | Makkhan phal"
+  },
+  "fig": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Anjeer | Anjir | Athi pazham | Anjura"
+  },
+  "dates": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Khajoor | Khajur | Perichai | Kharjuram | Kharjura | Eenthapandu | Kharik"
+  },
+  "raisins": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Kishmish | Kismis | Kismish | Draksha | Bedane | Ola draksha | Manukka"
+  },
+  "amla": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Indian gooseberry | Nelli | Usirikaya | Nelli kai | Amlaki | Phyllanthus emblica"
+  },
+  "apricot": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Khubaani | Khumani | Zardalu | Khubani | Jardalu"
+  },
+  "cranberry": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Karonda (similar) | Ber jaisi berry"
+  },
+  "prickly pear": {
+    "label": "Green",
+    "category": "Fruit",
+    "e_number": "",
+    "synonyms_india": "Nagphani | Cactus fruit | Thaakla | Naaglafani"
+  },
+  "rose water": {
+    "label": "Green",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Gulab jal | Gulab water | Panneer | Rose essence | Gulab ark"
+  },
+  "kewra water": {
+    "label": "Green",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Kewda jal | Kewra essence | Screw pine water | Kewra ark"
+  },
+  "vanilla bean": {
+    "label": "Green",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Vanilla ki phali | Vanilla extract | Vanila | Vanillin"
+  },
+  "cocoa powder": {
+    "label": "Green",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Koko powder | Cacao powder | Chocolate powder | Cocoa dust"
+  },
+  "lemon juice": {
+    "label": "Green",
+    "category": "Acid",
+    "e_number": "",
+    "synonyms_india": "Nimbu ras | Nimboo ras | Elumichai ras | Nimmakaya rasa | Limbu ras"
+  },
+  "tomato paste": {
+    "label": "Green",
+    "category": "Vegetable Product",
+    "e_number": "",
+    "synonyms_india": "Tamatar paste | Tamatar puree | Tamater concentrate"
+  },
+  "vinegar": {
+    "label": "Green",
+    "category": "Acid",
+    "e_number": "",
+    "synonyms_india": "Sirka | Sirkaa | Kaadi | Vinayagam | Sirke | Ambat | Sirka"
+  },
+  "green tea": {
+    "label": "Green",
+    "category": "Beverage",
+    "e_number": "",
+    "synonyms_india": "Hari chai | Hara tea | Harit chai"
+  },
+  "black tea": {
+    "label": "Green",
+    "category": "Beverage",
+    "e_number": "",
+    "synonyms_india": "Kali chai | Chai | CTC tea | Masala chai base"
+  },
+  "coffee": {
+    "label": "Green",
+    "category": "Beverage",
+    "e_number": "",
+    "synonyms_india": "Kaafi | Kappi | Kapi | Filter coffee | Nescafe"
+  },
+  "coconut water": {
+    "label": "Green",
+    "category": "Beverage",
+    "e_number": "",
+    "synonyms_india": "Nariyal paani | Thengai thanni | Kobbari neeru | Elaneer"
+  },
+  "baking soda": {
+    "label": "Green",
+    "category": "Leavening",
+    "e_number": "E500",
+    "synonyms_india": "Meetha soda | Soda bicarbonate | Khane ka soda | Soda | Mitha soda"
+  },
+  "garam masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Mixed spices | Whole spice blend | Khara masala | Masala powder"
+  },
+  "chaat masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Chaat spice | Imli masala | Chat masala | Chaat spice mix"
+  },
+  "sambar powder": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Sambar masala | Sambar podi | Kuzhambu masala"
+  },
+  "rasam powder": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Rasam masala | Charu podi | Saar masala"
+  },
+  "biryani masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Biryani masale | Biryani spice mix | Pulao masala"
+  },
+  "chana masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Chole masala | Chickpea masala | Kondakadalai masala"
+  },
+  "pav bhaji masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Bhaji masala | Pav bhaji powder | Street food masala"
+  },
+  "chole masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Chana masala | Chole powder | Chickpea spice"
+  },
+  "tandoori masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Tandoor masala | BBQ masala | Tikka masala base"
+  },
+  "chicken masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Murgh masala | Koli masala | Chicken curry powder"
+  },
+  "fish masala": {
+    "label": "Green",
+    "category": "Spice Mix",
+    "e_number": "",
+    "synonyms_india": "Meen masala | Machli masala | Fish curry powder"
+  },
+  "mango pickle (natural)": {
+    "label": "Green",
+    "category": "Condiment",
+    "e_number": "",
+    "synonyms_india": "Aam ka achar | Manga oorugai | Mamidi pachadi | Aamacha loncha"
+  },
+  "lime pickle (natural)": {
+    "label": "Green",
+    "category": "Condiment",
+    "e_number": "",
+    "synonyms_india": "Nimbu ka achar | Elumicha oorugai | Limbache lonche"
+  },
+  "coconut chutney": {
+    "label": "Green",
+    "category": "Condiment",
+    "e_number": "",
+    "synonyms_india": "Nariyal chutney | Thengai chutney | Kobbari pachadi"
+  },
+  "tamarind chutney": {
+    "label": "Green",
+    "category": "Condiment",
+    "e_number": "",
+    "synonyms_india": "Imli chutney | Puli chutney | Meethi chutney | Date imli chutney"
+  },
+  "tomato chutney": {
+    "label": "Green",
+    "category": "Condiment",
+    "e_number": "",
+    "synonyms_india": "Tamatar chutney | Thakkali chutney | Tomato pachadi"
+  },
+  "citric acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E330",
+    "synonyms_india": "Nimbu sat | Nimbu acid | Tatri | E330 | Khatta powder | Lemon salt"
+  },
+  "soy lecithin": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E322",
+    "synonyms_india": "Soya lecithin | E322 | Soy emulsifier | Lecithin powder"
+  },
+  "sunflower lecithin": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E322i",
+    "synonyms_india": "Surajmukhi lecithin | E322i | Plant lecithin"
+  },
+  "tartaric acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E334",
+    "synonyms_india": "Imli acid | Tatri | E334 | Grape acid"
+  },
+  "malic acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E296",
+    "synonyms_india": "Seb acid | E296 | Apple acid"
+  },
+  "lactic acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E270",
+    "synonyms_india": "Dahi acid | E270 | Fermented acid"
+  },
+  "acetic acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E260",
+    "synonyms_india": "Sirka acid | E260 | Vinegar acid"
+  },
+  "fumaric acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E297",
+    "synonyms_india": "E297 | Fumaric | Sour agent 297"
+  },
+  "adipic acid": {
+    "label": "Yellow",
+    "category": "Acid",
+    "e_number": "E355",
+    "synonyms_india": "E355 | Adipic | Sour agent 355"
+  },
+  "ascorbic acid": {
+    "label": "Yellow",
+    "category": "Antioxidant",
+    "e_number": "E300",
+    "synonyms_india": "Vitamin C | E300 | Vit C | Ascorbate"
+  },
+  "tocopherols": {
+    "label": "Yellow",
+    "category": "Antioxidant",
+    "e_number": "E306",
+    "synonyms_india": "E306 | Vitamin E | Vit E oil"
+  },
+  "rosemary extract": {
+    "label": "Yellow",
+    "category": "Antioxidant",
+    "e_number": "E392",
+    "synonyms_india": "E392 | Rosemary antioxidant | Gulmehendi extract"
+  },
+  "calcium carbonate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E170",
+    "synonyms_india": "Chuna | Chaona | E170 | Khaana chuna | Calcium powder"
+  },
+  "sodium bicarbonate": {
+    "label": "Yellow",
+    "category": "Leavening",
+    "e_number": "E500",
+    "synonyms_india": "Meetha soda | Khane ka soda | Baking soda | E500 | Soda bicarbonate"
+  },
+  "ammonium bicarbonate": {
+    "label": "Yellow",
+    "category": "Leavening",
+    "e_number": "E503",
+    "synonyms_india": "E503 | Ammonia powder | Baker ammonia | Khameer soda"
+  },
+  "cream of tartar": {
+    "label": "Yellow",
+    "category": "Leavening",
+    "e_number": "E336",
+    "synonyms_india": "E336 | Tartari powder | Potassium bitartrate"
+  },
+  "calcium phosphate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E341",
+    "synonyms_india": "E341 | Calcium phosphate powder | Bone calcium | Tricalcium phosphate"
+  },
+  "dipotassium phosphate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E340",
+    "synonyms_india": "E340 | DKP | Potassium phosphate | Buffer salt"
+  },
+  "monocalcium phosphate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E341i",
+    "synonyms_india": "E341i | MCP | Leavening phosphate"
+  },
+  "xanthan gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E415",
+    "synonyms_india": "Xanthan | E415 | Thickener gum | Xanthan stabiliser"
+  },
+  "guar gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E412",
+    "synonyms_india": "Guar phal | Cluster bean gum | E412 | Gawar gum | Guavar gum"
+  },
+  "locust bean gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E410",
+    "synonyms_india": "E410 | Carob gum | LBG | Locust gum | Carob bean gum"
+  },
+  "carrageenan": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E407",
+    "synonyms_india": "E407 | Seaweed extract | Thickener | Irish moss"
+  },
+  "pectin": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E440",
+    "synonyms_india": "E440 | Fruit pectin | Apple pectin | Phal ka gum"
+  },
+  "agar agar": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E406",
+    "synonyms_india": "China grass | E406 | Agar | Kadal paasi | Seaweed gelatin | Kanten"
+  },
+  "gellan gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E418",
+    "synonyms_india": "E418 | Gellan | Bacterial gum | Fermentation gum"
+  },
+  "tara gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E417",
+    "synonyms_india": "E417 | Tara powder | Peruvian carob gum"
+  },
+  "konjac gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E425",
+    "synonyms_india": "E425 | Konjac flour | Devil's tongue | Elephant yam gum | Konjac glucomannan"
+  },
+  "arabic gum": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E414",
+    "synonyms_india": "Babool gum | Kikar gum | E414 | Acacia gum"
+  },
+  "gelatin": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "",
+    "synonyms_india": "Jelly powder | Gelatine | Agar alternative | Bone gelatin"
+  },
+  "modified starch": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "E1400",
+    "synonyms_india": "E1400 | Modified cornflour | Processed starch | Dahi starch"
+  },
+  "corn starch": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "",
+    "synonyms_india": "Makkai ka starch | Cornflour | E1400 | Makai starch | Corn flour"
+  },
+  "potato starch": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "",
+    "synonyms_india": "Aloo ka starch | Aloo maand | Batata starch"
+  },
+  "tapioca starch": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "",
+    "synonyms_india": "Sabudana starch | Kochu pith | Kappa starch"
+  },
+  "maltodextrin": {
+    "label": "Yellow",
+    "category": "Thickener",
+    "e_number": "",
+    "synonyms_india": "Glucose polymer | Dextrin | Starch hydrolysate | E1400 group"
+  },
+  "dextrose": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Angoor shakkar | Glucose powder | Grape sugar"
+  },
+  "fructose": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Phal shakkar | Fruit sugar | Levulose"
+  },
+  "glucose syrup": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Liquid glucose | Shakkar syrup | Corn glucose"
+  },
+  "invert sugar": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Palta shakkar | Artificial honey base | Invert syrup"
+  },
+  "lactose": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Doodh shakkar | Milk sugar"
+  },
+  "sorbitol": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E420",
+    "synonyms_india": "E420 | Sugar alcohol | Sorbit | Sorbitol powder"
+  },
+  "maltitol": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E965",
+    "synonyms_india": "E965 | Malt sweetener | Sugar-free sweetener"
+  },
+  "xylitol": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E967",
+    "synonyms_india": "E967 | Birch sugar | Sugar-free gum sweetener"
+  },
+  "erythritol": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E968",
+    "synonyms_india": "E968 | Zero calorie sweetener"
+  },
+  "stevia": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E960",
+    "synonyms_india": "Stevia patti | E960 | Meethi patti | Stevia extract | Natural sweetener"
+  },
+  "monk fruit extract": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "Luo han guo | Lo han sweetener | Sadhu phal extract"
+  },
+  "isomalt": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E953",
+    "synonyms_india": ""
+  },
+  "mannitol": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "E421",
+    "synonyms_india": ""
+  },
+  "trehalose": {
+    "label": "Yellow",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vegetable glycerin": {
+    "label": "Yellow",
+    "category": "Humectant",
+    "e_number": "E422",
+    "synonyms_india": "Glycerol | Glycerine | E422 | Veg glycerin | Sabzi glycerine"
+  },
+  "propylene glycol": {
+    "label": "Yellow",
+    "category": "Humectant",
+    "e_number": "E1520",
+    "synonyms_india": ""
+  },
+  "sodium caseinate": {
+    "label": "Yellow",
+    "category": "Protein",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "whey protein concentrate": {
+    "label": "Yellow",
+    "category": "Protein",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "soy protein isolate": {
+    "label": "Yellow",
+    "category": "Protein",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "pea protein": {
+    "label": "Yellow",
+    "category": "Protein",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "rice protein": {
+    "label": "Yellow",
+    "category": "Protein",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "mono and diglycerides": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E471",
+    "synonyms_india": "E471 | MDG | Emulsifier 471 | Fat emulsifier"
+  },
+  "polysorbate 80": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E433",
+    "synonyms_india": "E433 | Tween 80 | Emulsifier 433"
+  },
+  "polysorbate 60": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E435",
+    "synonyms_india": ""
+  },
+  "polysorbate 20": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E432",
+    "synonyms_india": ""
+  },
+  "sodium stearoyl lactylate": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E481",
+    "synonyms_india": ""
+  },
+  "calcium stearoyl lactylate": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E482",
+    "synonyms_india": ""
+  },
+  "datem": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E472e",
+    "synonyms_india": ""
+  },
+  "hydroxypropyl methylcellulose": {
+    "label": "Yellow",
+    "category": "Emulsifier",
+    "e_number": "E464",
+    "synonyms_india": ""
+  },
+  "potassium chloride": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E508",
+    "synonyms_india": ""
+  },
+  "calcium chloride": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E509",
+    "synonyms_india": ""
+  },
+  "magnesium sulfate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E518",
+    "synonyms_india": ""
+  },
+  "sodium chloride": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "E508",
+    "synonyms_india": ""
+  },
+  "natural flavouring": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "yeast extract": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Khameer extract | Yeast flavour | E627 related | Khameeri extract"
+  },
+  "malt extract": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Jau extract | Barley malt | Malt syrup | Malted barley extract"
+  },
+  "hydrolysed vegetable protein": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "beef extract": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "chicken extract": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "fish sauce": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "soy sauce": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Soya sauce | Chini sauce | Soya saas | Manchurian sauce"
+  },
+  "oyster sauce": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "worcestershire sauce": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "beta-carotene": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E160a",
+    "synonyms_india": "E160a | Vitamin A precursor | Carrot colour | Beta carotine"
+  },
+  "beetroot powder": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E162",
+    "synonyms_india": ""
+  },
+  "paprika extract": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E160c",
+    "synonyms_india": ""
+  },
+  "annatto": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E160b",
+    "synonyms_india": "E160b | Lal rang | Sinduri rang | Bixa colour | Achiote"
+  },
+  "curcumin": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E100",
+    "synonyms_india": "E100 | Haldi extract | Turmeric colour | Curcuma extract"
+  },
+  "riboflavin": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E101",
+    "synonyms_india": ""
+  },
+  "chlorophylls": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E140",
+    "synonyms_india": ""
+  },
+  "anthocyanins": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E163",
+    "synonyms_india": ""
+  },
+  "lutein": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E161b",
+    "synonyms_india": ""
+  },
+  "caramel colour class i": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E150a",
+    "synonyms_india": "E150a | Caramel colour | Plain caramel | Sugar caramel"
+  },
+  "activated charcoal": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E153",
+    "synonyms_india": ""
+  },
+  "iron oxides": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E172",
+    "synonyms_india": ""
+  },
+  "copper chlorophyllin": {
+    "label": "Yellow",
+    "category": "Colour",
+    "e_number": "E141",
+    "synonyms_india": ""
+  },
+  "niacin": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "thiamine": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "riboflavin (b2)": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "folic acid": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vitamin d": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vitamin a": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vitamin b12": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vitamin c": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vitamin k": {
+    "label": "Yellow",
+    "category": "Vitamin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "zinc sulfate": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "iron (ferrous sulfate)": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "iodised salt": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": "Iodine namak | Tata namak | Double fort salt"
+  },
+  "magnesium oxide": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "selenium": {
+    "label": "Yellow",
+    "category": "Mineral",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "inulin": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "fructooligosaccharides": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "psyllium husk": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": "Isabgol | Isabgul | Ispaghol | Sat isabgol"
+  },
+  "oat fibre": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "wheat bran": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": "Gehun ki bhusi | Chokar | Godhuma thavidu"
+  },
+  "chicory root extract": {
+    "label": "Yellow",
+    "category": "Dietary Fibre",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "lactobacillus acidophilus": {
+    "label": "Yellow",
+    "category": "Probiotic",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "bifidobacterium": {
+    "label": "Yellow",
+    "category": "Probiotic",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "lactobacillus casei": {
+    "label": "Yellow",
+    "category": "Probiotic",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "saccharomyces cerevisiae": {
+    "label": "Yellow",
+    "category": "Yeast",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "dry yeast": {
+    "label": "Yellow",
+    "category": "Yeast",
+    "e_number": "",
+    "synonyms_india": "Sukha khameer | Instant yeast | Khameer powder"
+  },
+  "baking powder": {
+    "label": "Yellow",
+    "category": "Leavening",
+    "e_number": "E450",
+    "synonyms_india": "Baking powder | Khameer powder | Khane wala soda | E450"
+  },
+  "cream cheese": {
+    "label": "Yellow",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "condensed milk": {
+    "label": "Yellow",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": "Milkmaid | Mithai milk | Condensed doodh | Meetha doodh"
+  },
+  "evaporated milk": {
+    "label": "Yellow",
+    "category": "Dairy",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "coconut milk": {
+    "label": "Yellow",
+    "category": "Dairy Alternative",
+    "e_number": "",
+    "synonyms_india": "Nariyal ka doodh | Thengai paal | Kobbari palu | Narikela dugdha"
+  },
+  "almond milk": {
+    "label": "Yellow",
+    "category": "Dairy Alternative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "soy milk": {
+    "label": "Yellow",
+    "category": "Dairy Alternative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "oat milk": {
+    "label": "Yellow",
+    "category": "Dairy Alternative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "rice milk": {
+    "label": "Yellow",
+    "category": "Dairy Alternative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "palm oil": {
+    "label": "Yellow",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Palm tel | Tad tel | E422 group | Vanaspati base"
+  },
+  "cottonseed oil": {
+    "label": "Yellow",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Binola tel | Kapas tel | Cotton oil"
+  },
+  "rapeseed oil": {
+    "label": "Yellow",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Canola | Toria tel | Sarson group"
+  },
+  "corn oil": {
+    "label": "Yellow",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Makkai tel | Bhutta tel | Maize oil"
+  },
+  "soybean oil": {
+    "label": "Yellow",
+    "category": "Oil",
+    "e_number": "",
+    "synonyms_india": "Soya tel | Soy tel | Bhatmas tel"
+  },
+  "vanillin (natural)": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "E636",
+    "synonyms_india": ""
+  },
+  "ethyl vanillin (natural grade)": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "E637",
+    "synonyms_india": ""
+  },
+  "smoke flavouring": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "cocoa butter": {
+    "label": "Yellow",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": "Koko makkhan | Chocolate fat | Cacao butter"
+  },
+  "shea butter": {
+    "label": "Yellow",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "hydrogenated vegetable fat (non-trans)": {
+    "label": "Yellow",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "interesterified fat": {
+    "label": "Yellow",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "carob powder": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "licorice root extract": {
+    "label": "Yellow",
+    "category": "Flavouring",
+    "e_number": "E745",
+    "synonyms_india": "Mulethi extract | Jethi madh | Yashti madhu | E745"
+  },
+  "quillaja extract": {
+    "label": "Yellow",
+    "category": "Foaming Agent",
+    "e_number": "E999",
+    "synonyms_india": ""
+  },
+  "sodium alginate": {
+    "label": "Yellow",
+    "category": "Stabiliser",
+    "e_number": "E401",
+    "synonyms_india": "E401 | Seaweed sodium | Kelp sodium"
+  },
+  "potassium alginate": {
+    "label": "Yellow",
+    "category": "Stabiliser",
+    "e_number": "E402",
+    "synonyms_india": ""
+  },
+  "calcium alginate": {
+    "label": "Yellow",
+    "category": "Stabiliser",
+    "e_number": "E404",
+    "synonyms_india": ""
+  },
+  "microcrystalline cellulose": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E460",
+    "synonyms_india": ""
+  },
+  "silicon dioxide": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E551",
+    "synonyms_india": "E551 | Silica | Anti-caking silica"
+  },
+  "calcium silicate": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E552",
+    "synonyms_india": ""
+  },
+  "tricalcium phosphate": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E341iii",
+    "synonyms_india": ""
+  },
+  "magnesium carbonate": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E504",
+    "synonyms_india": ""
+  },
+  "sodium ferrocyanide": {
+    "label": "Yellow",
+    "category": "Anti-caking",
+    "e_number": "E535",
+    "synonyms_india": ""
+  },
+  "sodium benzoate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E211",
+    "synonyms_india": "E211 | Benzoate soda | Sodium benzoate preservative | Safed preservative"
+  },
+  "potassium sorbate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E202",
+    "synonyms_india": "E202 | Sorbate | K-sorbate | Potassium preservative"
+  },
+  "sodium nitrite": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E250",
+    "synonyms_india": "E250 | Meat preservative | Lal preservative | Nitrite"
+  },
+  "sodium nitrate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E251",
+    "synonyms_india": "E251 | Nitrate preservative | Lal namak"
+  },
+  "calcium propionate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E282",
+    "synonyms_india": "E282 | Bread preservative | Calcium salt preservative"
+  },
+  "sodium propionate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E281",
+    "synonyms_india": ""
+  },
+  "sulphur dioxide": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E220",
+    "synonyms_india": "E220 | SO2 | Sulphite preservative | Sulfur dioxide"
+  },
+  "sodium sulphite": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E221",
+    "synonyms_india": ""
+  },
+  "sodium metabisulphite": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E223",
+    "synonyms_india": "E223 | Sodium metabisulfite | Sulphite powder | Metabisulphite"
+  },
+  "potassium metabisulphite": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E224",
+    "synonyms_india": ""
+  },
+  "potassium benzoate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E212",
+    "synonyms_india": ""
+  },
+  "calcium benzoate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E213",
+    "synonyms_india": ""
+  },
+  "benzoic acid": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E210",
+    "synonyms_india": ""
+  },
+  "sodium diacetate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E262",
+    "synonyms_india": ""
+  },
+  "propionic acid": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E280",
+    "synonyms_india": ""
+  },
+  "natamycin": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E235",
+    "synonyms_india": ""
+  },
+  "lysozyme": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E1105",
+    "synonyms_india": ""
+  },
+  "bha": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E320",
+    "synonyms_india": "E320 | Butylated hydroxyanisole | Antioxidant 320 | BHA preservative"
+  },
+  "bht": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E321",
+    "synonyms_india": "E321 | Butylated hydroxytoluene | Antioxidant 321 | BHT preservative"
+  },
+  "tbhq": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E319",
+    "synonyms_india": "E319 | Tertiary butylhydroquinone | Antioxidant 319 | TBHQ oil preservative"
+  },
+  "sodium erythorbate": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E316",
+    "synonyms_india": ""
+  },
+  "propyl gallate": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E310",
+    "synonyms_india": ""
+  },
+  "octyl gallate": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E311",
+    "synonyms_india": ""
+  },
+  "dodecyl gallate": {
+    "label": "Orange",
+    "category": "Antioxidant",
+    "e_number": "E312",
+    "synonyms_india": ""
+  },
+  "monosodium glutamate": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E621",
+    "synonyms_india": "MSG | Ajinomoto | E621 | Aji-no-moto | Chinese salt | Taste maker | Umami salt"
+  },
+  "disodium inosinate": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E631",
+    "synonyms_india": "E631 | IMP | Flavour enhancer 631"
+  },
+  "disodium guanylate": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E627",
+    "synonyms_india": "E627 | GMP | Flavour enhancer 627"
+  },
+  "disodium ribonucleotides": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E635",
+    "synonyms_india": ""
+  },
+  "monopotassium glutamate": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E622",
+    "synonyms_india": ""
+  },
+  "calcium glutamate": {
+    "label": "Orange",
+    "category": "Flavour Enhancer",
+    "e_number": "E623",
+    "synonyms_india": ""
+  },
+  "aspartame": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E951",
+    "synonyms_india": "E951 | NutraSweet | Equal | Artificial sweetener 951 | Zero calorie sweetener"
+  },
+  "saccharin": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E954",
+    "synonyms_india": "E954 | Saccharine | Sweet-N-Low | Saccharin sodium | Meethi goli"
+  },
+  "acesulfame k": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E950",
+    "synonyms_india": "E950 | Ace-K | Acesulfame potassium | Sunett | Artificial sweetener 950"
+  },
+  "sucralose": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E955",
+    "synonyms_india": "E955 | Splenda | Artificial sweetener 955 | Sucralose sweetener"
+  },
+  "cyclamate": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E952",
+    "synonyms_india": ""
+  },
+  "neotame": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E961",
+    "synonyms_india": ""
+  },
+  "advantame": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E969",
+    "synonyms_india": ""
+  },
+  "caramel colour iii": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E150c",
+    "synonyms_india": "E150c | Ammonia caramel | Dark caramel | Soft drink caramel"
+  },
+  "caramel colour iv": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E150d",
+    "synonyms_india": "E150d | Sulfite ammonia caramel | Cola caramel"
+  },
+  "sunset yellow fcf": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E110",
+    "synonyms_india": "E110 | Yellow 6 | FD&C Yellow 6 | Orange yellow | Food yellow 3"
+  },
+  "carmoisine": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E122",
+    "synonyms_india": "E122 | Azorubine | Red food dye | Carmoisin"
+  },
+  "ponceau 4r": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E124",
+    "synonyms_india": "E124 | Cochineal red A | Brilliant scarlet | Food red 7"
+  },
+  "brilliant black bn": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E151",
+    "synonyms_india": ""
+  },
+  "allura red": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E129",
+    "synonyms_india": "E129 | Red 40 | FD&C Red 40 | Allura red AC | Red dye"
+  },
+  "patent blue v": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E131",
+    "synonyms_india": ""
+  },
+  "quinoline yellow": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E104",
+    "synonyms_india": "E104 | Quinoline yellow WS | Food yellow 13"
+  },
+  "brilliant blue fcf": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E133",
+    "synonyms_india": "E133 | Blue 1 | FD&C Blue 1 | Brilliant blue"
+  },
+  "indigotine": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E132",
+    "synonyms_india": ""
+  },
+  "green s": {
+    "label": "Orange",
+    "category": "Colour",
+    "e_number": "E142",
+    "synonyms_india": ""
+  },
+  "sodium aluminosilicate": {
+    "label": "Orange",
+    "category": "Anti-caking",
+    "e_number": "E554",
+    "synonyms_india": ""
+  },
+  "aluminium sulphate": {
+    "label": "Orange",
+    "category": "Firming Agent",
+    "e_number": "E520",
+    "synonyms_india": "Phitkari | Fitkari | Alum | Potash alum"
+  },
+  "phosphoric acid": {
+    "label": "Orange",
+    "category": "Acid",
+    "e_number": "E338",
+    "synonyms_india": "E338 | Acid 338 | Cola acid | Phosphate acid"
+  },
+  "sodium aluminium phosphate": {
+    "label": "Orange",
+    "category": "Leavening",
+    "e_number": "E541",
+    "synonyms_india": ""
+  },
+  "azodicarbonamide": {
+    "label": "Orange",
+    "category": "Flour Improver",
+    "e_number": "E927a",
+    "synonyms_india": "E927a | ADA | Flour bleacher | Bread improver 927a"
+  },
+  "partially hydrogenated oils": {
+    "label": "Orange",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": "Dalda | Vanaspati | Trans fat oil | PHO | Hydrogenated fat"
+  },
+  "high fructose corn syrup": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": "HFCS | Corn syrup | Glucose-fructose syrup | Isoglucose | Maize syrup"
+  },
+  "acetylated starch": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E1420",
+    "synonyms_india": ""
+  },
+  "hydroxypropyl starch": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E1440",
+    "synonyms_india": ""
+  },
+  "carboxymethyl cellulose": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E466",
+    "synonyms_india": ""
+  },
+  "methylcellulose": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E461",
+    "synonyms_india": ""
+  },
+  "polydextrose": {
+    "label": "Orange",
+    "category": "Bulking Agent",
+    "e_number": "E1200",
+    "synonyms_india": ""
+  },
+  "diacetyl": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial vanilla": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "E636",
+    "synonyms_india": ""
+  },
+  "quinine": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "potassium nitrate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E252",
+    "synonyms_india": ""
+  },
+  "calcium disodium edta": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E385",
+    "synonyms_india": ""
+  },
+  "disodium edta": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E386",
+    "synonyms_india": ""
+  },
+  "dimethyl dicarbonate": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E242",
+    "synonyms_india": ""
+  },
+  "hexamethylene tetramine": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E239",
+    "synonyms_india": ""
+  },
+  "pimaricin": {
+    "label": "Orange",
+    "category": "Preservative",
+    "e_number": "E235",
+    "synonyms_india": ""
+  },
+  "sodium lactate": {
+    "label": "Orange",
+    "category": "Humectant",
+    "e_number": "E325",
+    "synonyms_india": ""
+  },
+  "potassium lactate": {
+    "label": "Orange",
+    "category": "Humectant",
+    "e_number": "E326",
+    "synonyms_india": ""
+  },
+  "calcium lactate": {
+    "label": "Orange",
+    "category": "Humectant",
+    "e_number": "E327",
+    "synonyms_india": ""
+  },
+  "acetylated distarch adipate": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E1422",
+    "synonyms_india": ""
+  },
+  "hydroxypropyl distarch phosphate": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E1442",
+    "synonyms_india": ""
+  },
+  "starch sodium octenylsuccinate": {
+    "label": "Orange",
+    "category": "Thickener",
+    "e_number": "E1450",
+    "synonyms_india": ""
+  },
+  "bleached flour": {
+    "label": "Orange",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "bromated flour": {
+    "label": "Orange",
+    "category": "Grain",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial butter flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial strawberry flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial mango flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial cream flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial chocolate flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial pineapple flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial orange flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial lemon flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial rose flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial kewra flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "artificial elaichi flavour": {
+    "label": "Orange",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "saccharin sodium": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E954",
+    "synonyms_india": ""
+  },
+  "sodium cyclamate": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E952",
+    "synonyms_india": ""
+  },
+  "calcium cyclamate": {
+    "label": "Orange",
+    "category": "Sweetener",
+    "e_number": "E952",
+    "synonyms_india": ""
+  },
+  "aluminium ammonium sulphate": {
+    "label": "Orange",
+    "category": "Firming Agent",
+    "e_number": "E523",
+    "synonyms_india": ""
+  },
+  "aluminium potassium sulphate": {
+    "label": "Orange",
+    "category": "Firming Agent",
+    "e_number": "E522",
+    "synonyms_india": ""
+  },
+  "bleaching agent (benzoyl peroxide)": {
+    "label": "Orange",
+    "category": "Flour Treatment",
+    "e_number": "E928",
+    "synonyms_india": ""
+  },
+  "chlorine dioxide": {
+    "label": "Orange",
+    "category": "Flour Treatment",
+    "e_number": "E926",
+    "synonyms_india": ""
+  },
+  "chlorine gas": {
+    "label": "Orange",
+    "category": "Flour Treatment",
+    "e_number": "E925",
+    "synonyms_india": ""
+  },
+  "dough conditioner (l-cysteine)": {
+    "label": "Orange",
+    "category": "Flour Treatment",
+    "e_number": "E920",
+    "synonyms_india": ""
+  },
+  "brominated flour": {
+    "label": "Orange",
+    "category": "Flour Treatment",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "propylene glycol alginate": {
+    "label": "Orange",
+    "category": "Stabiliser",
+    "e_number": "E405",
+    "synonyms_india": ""
+  },
+  "cellulose gum": {
+    "label": "Orange",
+    "category": "Stabiliser",
+    "e_number": "E466",
+    "synonyms_india": ""
+  },
+  "glycerol": {
+    "label": "Orange",
+    "category": "Humectant",
+    "e_number": "E422",
+    "synonyms_india": ""
+  },
+  "triacetin": {
+    "label": "Orange",
+    "category": "Humectant",
+    "e_number": "E1518",
+    "synonyms_india": ""
+  },
+  "dioctyl sodium sulfosuccinate": {
+    "label": "Orange",
+    "category": "Emulsifier",
+    "e_number": "E480",
+    "synonyms_india": ""
+  },
+  "sodium lauryl sulphate": {
+    "label": "Orange",
+    "category": "Emulsifier",
+    "e_number": "E487",
+    "synonyms_india": ""
+  },
+  "stearic acid": {
+    "label": "Orange",
+    "category": "Anti-caking",
+    "e_number": "E570",
+    "synonyms_india": ""
+  },
+  "beeswax": {
+    "label": "Orange",
+    "category": "Glazing Agent",
+    "e_number": "E901",
+    "synonyms_india": "E901 | Mombatti maam | Shahad maam | Madhu maam"
+  },
+  "carnauba wax": {
+    "label": "Orange",
+    "category": "Glazing Agent",
+    "e_number": "E903",
+    "synonyms_india": "E903 | Fruit shine wax | Brazil wax"
+  },
+  "shellac": {
+    "label": "Orange",
+    "category": "Glazing Agent",
+    "e_number": "E904",
+    "synonyms_india": "E904 | Laakh | Lac | Fruit polish coating"
+  },
+  "tartrazine": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E102",
+    "synonyms_india": "E102 | Yellow 5 | FD&C Yellow 5 | Lemon yellow dye | Food yellow 4"
+  },
+  "erythrosine": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E127",
+    "synonyms_india": "E127 | Red 3 | FD&C Red 3 | Banned pink dye"
+  },
+  "amaranth dye": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E123",
+    "synonyms_india": "E123 | Red 2 | Banned red dye | Anar rang"
+  },
+  "red 2g": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E128",
+    "synonyms_india": ""
+  },
+  "chocolate brown ht": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E155",
+    "synonyms_india": ""
+  },
+  "violet bnp": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "sudan red": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "metanil yellow": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": "Metanil yellow dye | Acid yellow 36 | Turmeric adulterant | Illegal yellow dye"
+  },
+  "rhodamine b": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": "Rhodamine B dye | Illegal red dye | Chilli adulterant | Banned pink dye"
+  },
+  "malachite green": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": "Malachite green dye | Banned fish dye | Green adulterant"
+  },
+  "lead chromate": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": "Lead chromate yellow | Haldi adulterant | Illegal yellow pigment"
+  },
+  "auramine": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "fast green fcf": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E143",
+    "synonyms_india": ""
+  },
+  "titanium dioxide": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "E171",
+    "synonyms_india": "E171 | TiO2 | Safedi powder | White colour"
+  },
+  "potassium bromate": {
+    "label": "Red",
+    "category": "Flour Improver",
+    "e_number": "E924",
+    "synonyms_india": "E924 | Bromate | Flour improver 924 | Banned bread additive"
+  },
+  "brominated vegetable oil": {
+    "label": "Red",
+    "category": "Emulsifier",
+    "e_number": "E443",
+    "synonyms_india": "E443 | BVO | Citrus oil emulsifier"
+  },
+  "cyclamate (banned use)": {
+    "label": "Red",
+    "category": "Sweetener",
+    "e_number": "E952",
+    "synonyms_india": ""
+  },
+  "dulcin": {
+    "label": "Red",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "p-4000": {
+    "label": "Red",
+    "category": "Sweetener",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "coumarin": {
+    "label": "Red",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": "Dalchini fragrance | Tonka bean extract"
+  },
+  "safrole": {
+    "label": "Red",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "beta-asarone": {
+    "label": "Red",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "diethylene glycol": {
+    "label": "Red",
+    "category": "Solvent",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "melamine": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Protein adulterant | Doodh milavat | Plastic compound"
+  },
+  "formaldehyde": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "",
+    "synonyms_india": "Formalin | Fish adulterant | Doodh milavat preservative"
+  },
+  "boric acid": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "",
+    "synonyms_india": "Suhaga acid | Borax acid | Boric preservative"
+  },
+  "calcium sulphite": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "E226",
+    "synonyms_india": ""
+  },
+  "nitrofurans": {
+    "label": "Red",
+    "category": "Antibiotic Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "chloramphenicol": {
+    "label": "Red",
+    "category": "Antibiotic Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "ractopamine": {
+    "label": "Red",
+    "category": "Growth Promoter",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "ddt": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": "DDT keetnashak | Banned pesticide | Dichlorodiphenyltrichloroethane"
+  },
+  "trans fatty acids (>2%)": {
+    "label": "Red",
+    "category": "Fat",
+    "e_number": "",
+    "synonyms_india": "Trans fat | Vanaspati trans fat | Dalda trans"
+  },
+  "argemone oil": {
+    "label": "Red",
+    "category": "Oil Adulterant",
+    "e_number": "",
+    "synonyms_india": "Satyanashi tel | Kateli oil | Sarson adulterant"
+  },
+  "mineral oil (food adulteration)": {
+    "label": "Red",
+    "category": "Oil Adulterant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "urea in milk": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Urea milk adulterant | Carbamide adulterant | Synthetic milk"
+  },
+  "hydrogen peroxide (excess)": {
+    "label": "Red",
+    "category": "Bleach",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "aluminium-based lake colours": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "castoreum": {
+    "label": "Red",
+    "category": "Flavouring",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "monobromoacetic acid": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "dehydroacetic acid": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "E265",
+    "synonyms_india": ""
+  },
+  "biphenyl": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "E230",
+    "synonyms_india": ""
+  },
+  "orthophenyl phenol": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "E231",
+    "synonyms_india": ""
+  },
+  "thiabendazole": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "E233",
+    "synonyms_india": ""
+  },
+  "dimethyl fumarate": {
+    "label": "Red",
+    "category": "Preservative",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "cyanuric acid": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "starch adulterant in spices": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Maida adulterant | Arrowroot adulterant | Spice starch filler"
+  },
+  "chalk in flour": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Chalk powder adulterant | Calcium carbonate filler | Atta adulterant"
+  },
+  "washing soda in vegetables": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Soda adulteration | Hariyali sodium | Artificial green | Sodium carbonate adulteration"
+  },
+  "carbide (calcium carbide) in fruits": {
+    "label": "Red",
+    "category": "Adulterant",
+    "e_number": "",
+    "synonyms_india": "Carbide | Pathhar | Calcium carbide ripening | Mango ripening agent"
+  },
+  "saccharin (excess, in india)": {
+    "label": "Red",
+    "category": "Sweetener",
+    "e_number": "E954",
+    "synonyms_india": ""
+  },
+  "artificial food dyes (unlisted)": {
+    "label": "Red",
+    "category": "Colour",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "propylene oxide": {
+    "label": "Red",
+    "category": "Fumigant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "ethylene oxide": {
+    "label": "Red",
+    "category": "Fumigant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "methyl bromide": {
+    "label": "Red",
+    "category": "Fumigant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "lindane": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": "Gammexane | BHC | Banned keetnashak"
+  },
+  "endosulfan": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": "Thiodan | Banned insecticide | Endosulfan keetnashak"
+  },
+  "aldrin": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "dieldrin": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "chlordane": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "heptachlor": {
+    "label": "Red",
+    "category": "Pesticide Residue",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "pcbs in fish": {
+    "label": "Red",
+    "category": "Contaminant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "mercury in seafood": {
+    "label": "Red",
+    "category": "Contaminant",
+    "e_number": "",
+    "synonyms_india": "Paara dhatu | Heavy metal machli"
+  },
+  "lead in spices": {
+    "label": "Red",
+    "category": "Contaminant",
+    "e_number": "",
+    "synonyms_india": "Seesa milavat | Lead masala adulterant"
+  },
+  "arsenic in rice": {
+    "label": "Red",
+    "category": "Contaminant",
+    "e_number": "",
+    "synonyms_india": "Sankhiya chawal | Arsenic contamination"
+  },
+  "cadmium in cereals": {
+    "label": "Red",
+    "category": "Contaminant",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "aflatoxin": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": "Aflatoxin B1 | Moongfali toxin | Fungal toxin"
+  },
+  "ochratoxin a": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "deoxynivalenol": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "zearalenone": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "fumonisins": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "patulin": {
+    "label": "Red",
+    "category": "Mycotoxin",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "spices and condiments": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vegetables": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "edible vegetable oil": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "protein": {
+    "label": "Yellow",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "spices": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "wheat and peanut": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  },
+  "vegetable oil": {
+    "label": "Green",
+    "category": "auto-learned",
+    "e_number": "",
+    "synonyms_india": ""
+  }
+}
