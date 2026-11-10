@@ -1,0 +1,544 @@
+ingredient_name,e_number,category,label,synonyms_india,feature_text
+water,,Solvent,Green,Pani | Jal | Neeru | Thanni | Vellam,water solvent
+salt,,Mineral,Green,Namak | Noon | Uppu | Lavana | Meetha namak | Iodised namak | Table salt,salt mineral
+sugar,,Sweetener,Green,Cheeni | Shakkar | Chakkara | Sarkar | Shakhar | Sakkarai | Panjasara,sugar sweetener
+jaggery,,Sweetener,Green,Gur | Gud | Vellam | Bella | Bellam | Gul | Nolen gur | Khandsari,jaggery sweetener
+honey,,Sweetener,Green,Shahad | Madhu | Then | Thene | Tene | Mahu,honey sweetener
+coconut sugar,,Sweetener,Green,Nariyal cheeni | Narial shakkar | Thengai shakkarai | Kobbari shakkar,coconut sugar sweetener
+wheat flour,,Grain,Green,Atta | Gehun atta | Godhuma pindi | Godhumai maavu | Godi hittu | Godhuma | Maida (refined) | Chapati atta,wheat flour grain
+rice flour,,Grain,Green,Chawal ka atta | Chaul pith | Arisi maavu | Biyyam pindi | Akki hittu | Ari podi,rice flour grain
+maize flour,,Grain,Green,Makka atta | Bhutta atta | Cholam maavu | Makkajonna | Jovari peeth,maize flour grain
+chickpea flour,,Grain,Green,Besan | Gram flour | Chana atta | Kadalai maavu | Senagala pindi | Kadala mavu | Harbharyacha pith,chickpea flour grain
+semolina,,Grain,Green,Suji | Rava | Sooji | Rawa | Semiya rava | Sajji | Bombay rava | Chiroti rava,semolina grain
+oats,,Grain,Green,Jai | Jaee | Javi | Oat daliya,oats grain
+barley,,Grain,Green,Jau | Yav | Barlai | Yavam | Jave,barley grain
+rye flour,,Grain,Green,Rai ka atta | Raay,rye flour grain
+sorghum flour,,Grain,Green,Jowar atta | Jonna atta | Cholam maavu | Jwari pith | Jowari,sorghum flour grain
+millet flour,,Grain,Green,Bajra atta | Bajri | Bajri no lot | Kambu maavu | Sajje hittu | Sajja pindi,millet flour grain
+tapioca flour,,Grain,Green,Sabudana atta | Kochu pith | Maravalli kilangu maavu | Sago flour | Cassava flour,tapioca flour grain
+arrowroot powder,,Grain,Green,Ararot | Paniphal starch | Koova podi | Araruttu,arrowroot powder grain
+buckwheat flour,,Grain,Green,Kuttu ka atta | Kuttu | Kutti pindi | Papparai maavu,buckwheat flour grain
+amaranth flour,,Grain,Green,Rajgira atta | Ramdana atta | Chaulai atta | Rajgiri,amaranth flour grain
+milk,,Dairy,Green,Doodh | Dudh | Paal | Haalu | Pala | Duth | Pal,milk dairy
+cream,,Dairy,Green,Malai | Cream | Paalu cream | Toping malai,cream dairy
+butter,,Dairy,Green,Makhan | Makkhan | Vennai | Venna | Benne | Loni | Navaneet,butter dairy
+ghee,,Dairy,Green,Desi ghee | Ghi | Nei | Tuppa | Tup | Ghrit | Clarified butter,ghee dairy
+paneer,,Dairy,Green,Cottage cheese | Chhena | Chhana | Ponir | Chena,paneer dairy
+curd,,Dairy,Green,Dahi | Doi | Thayir | Perugu | Mosaru | Moru | Tak | Dadhi,curd dairy
+whey,,Dairy,Green,Matha | Mattha | Chach | Nimbu wala doodh paani | Whey protein,whey dairy
+buttermilk,,Dairy,Green,Chaach | Chhaas | Mor | Majjiga | Majjige | Moru | Taak | Lassi,buttermilk dairy
+skimmed milk,,Dairy,Green,Toned milk | Double toned milk | Skimmed doodh,skimmed milk dairy
+buffalo milk,,Dairy,Green,Bhains ka doodh | Eruttu paal | Goduma haalu,buffalo milk dairy
+goat milk,,Dairy,Green,Bakri ka doodh | Aatu paal | Meke haalu,goat milk dairy
+eggs,,Animal Product,Green,Anda | Mutta | Guddu | Motte | Mottai | Andi,eggs animal product
+chicken,,Meat,Green,Murgi | Murga | Koli | Kodi | Kukuda | Kozhi | Kombdi,chicken meat
+fish,,Seafood,Green,Machli | Machi | Meen | Chepalu | Meenam | Maas,fish seafood
+mutton,,Meat,Green,Bakra gosht | Lamb | Adu kari | Meda kari | Yeli mas | Mendyache mas,mutton meat
+prawns,,Seafood,Green,Jhinga | Chingri | Eral | Royyalu | Sungata | Chemmeen | Kolambi,prawns seafood
+beef,,Meat,Green,Gai ka gosht | Gorur mas | Maattu kari | Beef gosht,beef meat
+pork,,Meat,Green,Suar ka gosht | Bandel | Panni kari | Pork gosht | Sukar mas,pork meat
+turkey,,Meat,Green,Turkey murgi | Piru murga,turkey meat
+duck,,Meat,Green,Batakh | Batakha | Hans | Duck gosht,duck meat
+salmon,,Seafood,Green,Salman machli | Rawas (similar),salmon seafood
+tuna,,Seafood,Green,Tuna machli | Choora | Soorai,tuna seafood
+crab,,Seafood,Green,Kekda | Kakka | Nandu | Peetha | Njandu,crab seafood
+lobster,,Seafood,Green,Jhumra machli | Iral | Langoustine,lobster seafood
+squid,,Seafood,Green,Squid machli | Kadamba | Kanava,squid seafood
+tomato,,Vegetable,Green,Tamatar | Tamater | Thakkali | Tamata | Tomate | Vilayati baigan,tomato vegetable
+onion,,Vegetable,Green,Pyaaz | Pyaj | Vengayam | Ullipaya | Eerulli | Savala | Kanda,onion vegetable
+potato,,Vegetable,Green,Aloo | Alu | Urulai kilangu | Bangaladumpa | Batata | Aaloo | Alu,potato vegetable
+carrot,,Vegetable,Green,Gajar | Gaajar | Karot | Gajara | Mangalore carrot,carrot vegetable
+spinach,,Vegetable,Green,Palak | Paalak | Pasalai keerai | Palakura | Baapalya | Cheera | Palakchi bhaaji,spinach vegetable
+cabbage,,Vegetable,Green,Patta gobi | Band gobi | Muttaikose | Cabbage kosu | Kobi,cabbage vegetable
+cauliflower,,Vegetable,Green,Phool gobi | Phool gobhi | Cauliflower kosu | Gova | Fulkopi,cauliflower vegetable
+broccoli,,Vegetable,Green,Hari gobi | Broccoli gobi | Broccoli phool,broccoli vegetable
+eggplant,,Vegetable,Green,Baingan | Brinjal | Kathirikkai | Vankaya | Badanekai | Vazhuthananga | Vangi,eggplant vegetable
+okra,,Vegetable,Green,Bhindi | Bhendi | Vendakkai | Bendakaya | Bendekai | Vendakka | Bendo,okra vegetable
+bitter gourd,,Vegetable,Green,Karela | Pavakkai | Kakarakaya | Hagalakai | Paavakka | Karle,bitter gourd vegetable
+bottle gourd,,Vegetable,Green,Lauki | Ghiya | Sorekai | Sorakaya | Laau | Dudhi | Bottle gourd,bottle gourd vegetable
+ridge gourd,,Vegetable,Green,Torai | Turai | Peerkangai | Beerakai | Heerekai | Peechil | Dodka,ridge gourd vegetable
+pumpkin,,Vegetable,Green,Kaddu | Kumhra | Poosanikai | Gummadikaya | Kumbalakai | Mathanga | Lal bhopla,pumpkin vegetable
+sweet potato,,Vegetable,Green,Shakarkandi | Sakkaravalli kilangu | Chilagada dumpa | Genasu | Madhura kilangu | Ratalu,sweet potato vegetable
+yam,,Vegetable,Green,Suran | Zimikand | Senai kilangu | Kanda | Suvarna gedde | Chena | Karanda,yam vegetable
+radish,,Vegetable,Green,Mooli | Mullangi | Mullangi | Mula | Mulangi | Muli,radish vegetable
+beetroot,,Vegetable,Green,Chukandar | Beetroot | Bit | Beet,beetroot vegetable
+green beans,,Vegetable,Green,Faras bean | Cluster beans | French beans | Seemai avarai | Chikkudu | Hurali kai,green beans vegetable
+peas,,Vegetable,Green,Matar | Mutter | Pattani | Batani | Hasiru batani | Peas dal | Vatana,peas vegetable
+corn,,Vegetable,Green,Makka | Bhutta | Cholam | Makkajonna | Musukina jola | Corn | Makai,corn vegetable
+zucchini,,Vegetable,Green,Courgette | Hari zucchini | Turai jaisi sabzi,zucchini vegetable
+cucumber,,Vegetable,Green,Kheera | Kakdi | Vellarikkai | Dosakaya | Sauthekai | Vellarikka | Kaakdi,cucumber vegetable
+bell pepper,,Vegetable,Green,Shimla mirch | Capsicum | Kudamilagai | Capsi | Donne menasinkai | Shimla mirchi,bell pepper vegetable
+lettuce,,Vegetable,Green,Salad patta | Salad ke patte | Lettuce patta,lettuce vegetable
+celery,,Vegetable,Green,Ajwain patta | Celery patta | Ajmoda,celery vegetable
+asparagus,,Vegetable,Green,Shatavari | Asparagus sabzi,asparagus vegetable
+mushroom,,Vegetable,Green,Mushroom | Khumb | Khumbi | Koon | Puttu kalan,mushroom vegetable
+garlic,,Spice,Green,Lahsun | Lasan | Poondu | Velluli | Bellulli | Veluthulli | Lasun,garlic spice
+ginger,,Spice,Green,Adrak | Adarak | Inji | Allam | Shunti | Inchi | Aale,ginger spice
+turmeric,,Spice,Green,Haldi | Haldee | Manjal | Pasupu | Arisina | Manjal podi | Halad,turmeric spice
+red chilli,,Spice,Green,Lal mirch | Lal mirchi | Lal mircha | Milagai | Endu mirapa | Kempu menasinkai | Mulaku | Tikhat mirchi,red chilli spice
+green chilli,,Spice,Green,Hari mirch | Hari mirchi | Pachai milagai | Pacchi mirapakaya | Hasiru menasinkai | Pacha mulaku | Hirvi mirchi,green chilli spice
+coriander,,Spice,Green,Dhania | Dhaniya | Kothamalli | Dhaniyalu | Kothambri | Malli | Kothimbir,coriander spice
+cumin,,Spice,Green,Jeera | Jira | Seeragam | Jilakarra | Jeerige | Jeerakam | Jire,cumin spice
+black pepper,,Spice,Green,Kali mirch | Kali mirchi | Milagu | Miriyalu | Kari menasinkai | Kurumulaku | Miri,black pepper spice
+cardamom,,Spice,Green,Elaichi | Elachi | Elakkai | Elakki | Yelakki | Elam | Veldoda,cardamom spice
+cloves,,Spice,Green,Laung | Long | Lavangam | Lavangalu | Lavanga | Karayampoo | Lavang,cloves spice
+cinnamon,,Spice,Green,Dalchini | Dalcheeni | Pattai | Dalchina chekka | Lavanga patte | Karuvapatta | Taj,cinnamon spice
+bay leaf,,Spice,Green,Tej patta | Biryani patta | Brinji ilai | Biryani aaku | Biryani ele | Karuvaepila | Tamalpatra,bay leaf spice
+mustard seeds,,Spice,Green,Rai | Sarso | Kadugu | Aavalu | Sasive | Kaduku | Mohri,mustard seeds spice
+fenugreek,,Spice,Green,Methi | Methi dana | Venthayam | Menthulu | Menthya | Uluva | Methya,fenugreek spice
+carom seeds,,Spice,Green,Ajwain | Ajwaayan | Omam | Vamu | Oma | Ayamodakam | Ova,carom seeds spice
+asafoetida,,Spice,Green,Hing | Heeng | Perungayam | Inguva | Hingu | Kayam | Hing powder,asafoetida spice
+fennel seeds,,Spice,Green,Saunf | Souf | Sombu | Sopu | Saunf beej | Badisep | Badi saunf,fennel seeds spice
+star anise,,Spice,Green,Chakra phool | Biryani phool | Illu masal | Anasi puvvu | Star anise masala,star anise spice
+nutmeg,,Spice,Green,Jaiphal | Jayfal | Jatikkai | Jajikaya | Jaayi phala | Jathikka | Jayaphal,nutmeg spice
+mace,,Spice,Green,Javitri | Jaapatri | Jatipathiri | Jaayi poo | Jayapatri,mace spice
+saffron,,Spice,Green,Kesar | Zafran | Kumkumapoo | Kumkuma puvvu | Kesara | Kunjumam | Keshar,saffron spice
+poppy seeds,,Spice,Green,Khus khus | Kas kas | Kasa kasa | Gasagasalu | Khaskhas | Posto | Afim ke beej,poppy seeds spice
+sesame seeds,,Spice,Green,Til | Till | Ellu | Nuvvulu | Yellu | Ellu | Teel,sesame seeds spice
+nigella seeds,,Spice,Green,Kalonji | Mangrail | Karuppu ellu | Krishna jilakarra | Karimjeerakam | Nalla jilakarra | Kale til,nigella seeds spice
+dried mango powder,,Spice,Green,Amchur | Amchoor | Mango powder | Khatai | Kairi powder,dried mango powder spice
+kokum,,Spice,Green,Kokam | Aamsol | Amsul | Gamboge | Bhirand | Punampuli | Murgal,kokum spice
+tamarind,,Spice,Green,Imli | Imlee | Puli | Chinta pandu | Hunise hannu | Puli | Chinchecha kala,tamarind spice
+curry leaves,,Herb,Green,Kadi patta | Karivepaku | Karivepilai | Karibevu | Karuvepilai | Meetha neem | Kadhilimb,curry leaves herb
+mint,,Herb,Green,Pudina | Pudhina | Pudinaa | Pudina patti | Pudina patta | Pudina leaves,mint herb
+kasuri methi,,Herb,Green,Dried fenugreek leaves | Methi patti | Kasori methi | Sukhi methi | Methi leaves,kasuri methi herb
+coriander leaves,,Herb,Green,Hara dhania | Kothamalli | Kothimira | Kottambari soppu | Kothampalavu | Kothimbir patta,coriander leaves herb
+basil,,Herb,Green,Tulsi | Sabja | Tulasi | Thiruneetru pachai | Sabbasige soppu | Tirunitru,basil herb
+rosemary,,Herb,Green,Gulmehendi | Rusmary | Rosemary patti,rosemary herb
+thyme,,Herb,Green,Banajwain | Ajwain ki jati | Karpooravalli,thyme herb
+oregano,,Herb,Green,Sathra | Mirzanjosh | Omam poo,oregano herb
+parsley,,Herb,Green,Vilayati dhania | Ajmod patti | Ajmoda,parsley herb
+dill,,Herb,Green,Soya saag | Shepu | Suva bhaji | Sadkuppa,dill herb
+lemongrass,,Herb,Green,Nimbu ghaas | Citronella | Agar ghaas | Vasanapullu,lemongrass herb
+pandan leaves,,Herb,Green,Kewda patta | Rampe | Annapurna patta,pandan leaves herb
+sunflower oil,,Oil,Green,Surajmukhi tel | Suryafool tel | Puvvula noone | Sunflower tel,sunflower oil oil
+mustard oil,,Oil,Green,Sarson ka tel | Rai tel | Kadugu ennai | Avalu noone | Sasive enne | Kadukenna,mustard oil oil
+coconut oil,,Oil,Green,Nariyal tel | Narikel tel | Thengai ennai | Kobbari noone | Thengai enne | Vennenna | Naral tel,coconut oil oil
+groundnut oil,,Oil,Green,Moongfali tel | Moonphali tel | Kadala ennai | Pallilu noone | Shenga tel | Peanut oil,groundnut oil oil
+sesame oil,,Oil,Green,Til ka tel | Nalla ennai | Nuvvula noone | Yellenne | Nallenna | Teel tel,sesame oil oil
+olive oil,,Oil,Green,Jaitun ka tel | Jaitoon tel | Zeitoon tel,olive oil oil
+rice bran oil,,Oil,Green,Chawal ki bhusi ka tel | Rice bran tel,rice bran oil oil
+safflower oil,,Oil,Green,Kusum tel | Kardi tel | Kusumba tel,safflower oil oil
+flaxseed oil,,Oil,Green,Alsi ka tel | Jawas tel | Agasi enne | Linseed oil,flaxseed oil oil
+walnut oil,,Oil,Green,Akhrot ka tel | Akhrode tel,walnut oil oil
+hemp seed oil,,Oil,Green,Bhang ka tel | Bhang beej tel,hemp seed oil oil
+avocado oil,,Oil,Green,Makhanphal tel | Butter fruit oil,avocado oil oil
+lentils,,Legume,Green,Dal | Masoor dal | Daal | Paruppu | Pappu | Bele | Parippu,lentils legume
+chickpeas,,Legume,Green,Chana | Kabuli chana | Chole | Kondakadalai | Senagalu | Kadle | Harbhara | Chholiya,chickpeas legume
+kidney beans,,Legume,Green,Rajma | Lal lobia | Rajmah | Red beans | Lal beans | Rajmachi,kidney beans legume
+black gram,,Legume,Green,Urad dal | Urad | Ulundu | Minumulu | Uddina bele | Uzhunnu | Udid dal,black gram legume
+green gram,,Legume,Green,Moong dal | Mung | Pachai payaru | Pesalu | Hesaru bele | Cherupayar | Moog dal,green gram legume
+pigeon peas,,Legume,Green,Toor dal | Arhar dal | Tuvar dal | Tuvaram paruppu | Kandipappu | Togari bele | Thuvara parippu,pigeon peas legume
+horse gram,,Legume,Green,Kulthi | Kulith | Kollu | Ulavalu | Huruli | Muthira | Kulath dal,horse gram legume
+moth beans,,Legume,Green,Matki | Moth | Matki bean | Matki usal,moth beans legume
+soybeans,,Legume,Green,Soy | Soya bean | Bhatmas | Soyabean | Soya,soybeans legume
+black-eyed peas,,Legume,Green,Lobia | Chawli | Karamani | Bobbarlu | Alasande | Vanpayar | Chavli,black-eyed peas legume
+peanuts,,Nut,Green,Moongfali | Moonphali | Kadala | Verusenaga | Kadlekai | Nilakadalai | Shenga,peanuts nut
+cashews,,Nut,Green,Kaju | Keshav | Munthiri | Jeedipappu | Godambi | Cashew nut | Kaju badam,cashews nut
+almonds,,Nut,Green,Badam | Badaam | Vadumai | Badam pappu | Badam | Baadami | Badam nuts,almonds nut
+walnuts,,Nut,Green,Akhrot | Akharot | Akrottu | Akrut | Akrode,walnuts nut
+pistachios,,Nut,Green,Pista | Piste | Pista badam | Pista nut,pistachios nut
+hazelnuts,,Nut,Green,Pahadi badam | Filbert | Fanduk,hazelnuts nut
+macadamia nuts,,Nut,Green,Hawaii nut | Macadamia badam,macadamia nuts nut
+pine nuts,,Nut,Green,Chilgoza | Nejo | Chalghoza | Pine seed | Charoli (different but confused),pine nuts nut
+brazil nuts,,Nut,Green,Brazil badam | Para nut,brazil nuts nut
+flax seeds,,Seed,Green,Alsi | Alasi | Aviselu | Agasi | Cheruchana vithu | Jawas,flax seeds seed
+chia seeds,,Seed,Green,Chia beej | Sabja (confused) | Tukmaria (confused),chia seeds seed
+pumpkin seeds,,Seed,Green,Kaddu ke beej | Kaddoo beej | Poosanikai vidhai | Gummadi vitthanalu,pumpkin seeds seed
+sunflower seeds,,Seed,Green,Surajmukhi ke beej | Puvvula vitthanalu | Puvvula beej,sunflower seeds seed
+watermelon seeds,,Seed,Green,Tarbooz ke beej | Darbuz beej | Tharboosangai vidhai,watermelon seeds seed
+hemp seeds,,Seed,Green,Bhang ke beej | Vijaya beej | Bhang seeds,hemp seeds seed
+mango,,Fruit,Green,Aam | Aamo | Manga | Mamidipandu | Mavinahannu | Maanga | Amb,mango fruit
+banana,,Fruit,Green,Kela | Kele | Vazhai pazham | Arati pandu | Bale hannu | Vaazha | Kela,banana fruit
+apple,,Fruit,Green,Seb | Saib | Apple pazham | Appu | Sebu | Safarchand,apple fruit
+lemon,,Fruit,Green,Nimbu | Nimboo | Elumichai | Nimmakaya | Nimbe | Cherunaranga | Limbu,lemon fruit
+orange,,Fruit,Green,Santra | Narangi | Santara | Kichili palam | Narinja | Malta | Narangi,orange fruit
+pineapple,,Fruit,Green,Ananas | Annanas | Anasi pazham | Anasa pandu | Ananas | Kaitha chakka,pineapple fruit
+pomegranate,,Fruit,Green,Anar | Dadam | Maadhulampazham | Danimma pandu | Dalimbe | Urumampazham | Dalimb,pomegranate fruit
+guava,,Fruit,Green,Amrood | Peru | Koyyapazham | Jama | Perala | Pera,guava fruit
+papaya,,Fruit,Green,Papita | Papeeta | Pappali | Boppai | Parangi | Omakaya | Papai,papaya fruit
+coconut,,Fruit,Green,Nariyal | Narikel | Thengai | Kobbari | Tenginkai | Nalikeram | Naral,coconut fruit
+grapes,,Fruit,Green,Angoor | Angur | Thirakshai | Drakshu | Drakshi | Munthiri | Draksha,grapes fruit
+strawberry,,Fruit,Green,Lal berry | Jharberi | Stawberi,strawberry fruit
+blueberry,,Fruit,Green,Neel berry | Neeli berry | Falsa (similar),blueberry fruit
+muskmelon,,Fruit,Green,Kharbooja | Kharbuj | Kirni pazham | Kharbuja | Kharbuza | Kharbuja,muskmelon fruit
+watermelon,,Fruit,Green,Tarbooz | Tarbuj | Tharbusani | Tarbuja | Kalingad,watermelon fruit
+jackfruit,,Fruit,Green,Kathal | Chakka | Panasa | Halasina hannu | Chakka | Fanas,jackfruit fruit
+litchi,,Fruit,Green,Lychee | Lichu | Litchu | Lijee,litchi fruit
+plum,,Fruit,Green,Aloo bukhara | Alucha | Aalucha,plum fruit
+peach,,Fruit,Green,Aadoo | Aroo | Shaftalu | Saftaloo,peach fruit
+pear,,Fruit,Green,Nashpati | Naspati | Babugosha,pear fruit
+cherry,,Fruit,Green,Gilas | Griaas | Cherry phal,cherry fruit
+kiwi,,Fruit,Green,Kiwi phal | Chinese gooseberry | Kivi,kiwi fruit
+avocado,,Fruit,Green,Makhanphal | Butter fruit | Makkhan phal,avocado fruit
+fig,,Fruit,Green,Anjeer | Anjir | Athi pazham | Anjura,fig fruit
+dates,,Fruit,Green,Khajoor | Khajur | Perichai | Kharjuram | Kharjura | Eenthapandu | Kharik,dates fruit
+raisins,,Fruit,Green,Kishmish | Kismis | Kismish | Draksha | Bedane | Ola draksha | Manukka,raisins fruit
+amla,,Fruit,Green,Indian gooseberry | Nelli | Usirikaya | Nelli kai | Amlaki | Phyllanthus emblica,amla fruit
+apricot,,Fruit,Green,Khubaani | Khumani | Zardalu | Khubani | Jardalu,apricot fruit
+cranberry,,Fruit,Green,Karonda (similar) | Ber jaisi berry,cranberry fruit
+prickly pear,,Fruit,Green,Nagphani | Cactus fruit | Thaakla | Naaglafani,prickly pear fruit
+rose water,,Flavouring,Green,Gulab jal | Gulab water | Panneer | Rose essence | Gulab ark,rose water flavouring
+kewra water,,Flavouring,Green,Kewda jal | Kewra essence | Screw pine water | Kewra ark,kewra water flavouring
+vanilla bean,,Flavouring,Green,Vanilla ki phali | Vanilla extract | Vanila | Vanillin,vanilla bean flavouring
+cocoa powder,,Flavouring,Green,Koko powder | Cacao powder | Chocolate powder | Cocoa dust,cocoa powder flavouring
+lemon juice,,Acid,Green,Nimbu ras | Nimboo ras | Elumichai ras | Nimmakaya rasa | Limbu ras,lemon juice acid
+tomato paste,,Vegetable Product,Green,Tamatar paste | Tamatar puree | Tamater concentrate,tomato paste vegetable product
+vinegar,,Acid,Green,Sirka | Sirkaa | Kaadi | Vinayagam | Sirke | Ambat | Sirka,vinegar acid
+green tea,,Beverage,Green,Hari chai | Hara tea | Harit chai,green tea beverage
+black tea,,Beverage,Green,Kali chai | Chai | CTC tea | Masala chai base,black tea beverage
+coffee,,Beverage,Green,Kaafi | Kappi | Kapi | Filter coffee | Nescafe,coffee beverage
+coconut water,,Beverage,Green,Nariyal paani | Thengai thanni | Kobbari neeru | Elaneer,coconut water beverage
+baking soda,E500,Leavening,Green,Meetha soda | Soda bicarbonate | Khane ka soda | Soda | Mitha soda,baking soda leavening e500
+garam masala,,Spice Mix,Green,Mixed spices | Whole spice blend | Khara masala | Masala powder,garam masala spice mix
+chaat masala,,Spice Mix,Green,Chaat spice | Imli masala | Chat masala | Chaat spice mix,chaat masala spice mix
+sambar powder,,Spice Mix,Green,Sambar masala | Sambar podi | Kuzhambu masala,sambar powder spice mix
+rasam powder,,Spice Mix,Green,Rasam masala | Charu podi | Saar masala,rasam powder spice mix
+biryani masala,,Spice Mix,Green,Biryani masale | Biryani spice mix | Pulao masala,biryani masala spice mix
+chana masala,,Spice Mix,Green,Chole masala | Chickpea masala | Kondakadalai masala,chana masala spice mix
+pav bhaji masala,,Spice Mix,Green,Bhaji masala | Pav bhaji powder | Street food masala,pav bhaji masala spice mix
+chole masala,,Spice Mix,Green,Chana masala | Chole powder | Chickpea spice,chole masala spice mix
+tandoori masala,,Spice Mix,Green,Tandoor masala | BBQ masala | Tikka masala base,tandoori masala spice mix
+chicken masala,,Spice Mix,Green,Murgh masala | Koli masala | Chicken curry powder,chicken masala spice mix
+fish masala,,Spice Mix,Green,Meen masala | Machli masala | Fish curry powder,fish masala spice mix
+mango pickle (natural),,Condiment,Green,Aam ka achar | Manga oorugai | Mamidi pachadi | Aamacha loncha,mango pickle (natural) condiment
+lime pickle (natural),,Condiment,Green,Nimbu ka achar | Elumicha oorugai | Limbache lonche,lime pickle (natural) condiment
+coconut chutney,,Condiment,Green,Nariyal chutney | Thengai chutney | Kobbari pachadi,coconut chutney condiment
+tamarind chutney,,Condiment,Green,Imli chutney | Puli chutney | Meethi chutney | Date imli chutney,tamarind chutney condiment
+tomato chutney,,Condiment,Green,Tamatar chutney | Thakkali chutney | Tomato pachadi,tomato chutney condiment
+citric acid,E330,Acid,Yellow,Nimbu sat | Nimbu acid | Tatri | E330 | Khatta powder | Lemon salt,citric acid acid e330
+soy lecithin,E322,Emulsifier,Yellow,Soya lecithin | E322 | Soy emulsifier | Lecithin powder,soy lecithin emulsifier e322
+sunflower lecithin,E322i,Emulsifier,Yellow,Surajmukhi lecithin | E322i | Plant lecithin,sunflower lecithin emulsifier e322i
+tartaric acid,E334,Acid,Yellow,Imli acid | Tatri | E334 | Grape acid,tartaric acid acid e334
+malic acid,E296,Acid,Yellow,Seb acid | E296 | Apple acid,malic acid acid e296
+lactic acid,E270,Acid,Yellow,Dahi acid | E270 | Fermented acid,lactic acid acid e270
+acetic acid,E260,Acid,Yellow,Sirka acid | E260 | Vinegar acid,acetic acid acid e260
+fumaric acid,E297,Acid,Yellow,E297 | Fumaric | Sour agent 297,fumaric acid acid e297
+adipic acid,E355,Acid,Yellow,E355 | Adipic | Sour agent 355,adipic acid acid e355
+ascorbic acid,E300,Antioxidant,Yellow,Vitamin C | E300 | Vit C | Ascorbate,ascorbic acid antioxidant e300
+tocopherols,E306,Antioxidant,Yellow,E306 | Vitamin E | Vit E oil,tocopherols antioxidant e306
+rosemary extract,E392,Antioxidant,Yellow,E392 | Rosemary antioxidant | Gulmehendi extract,rosemary extract antioxidant e392
+calcium carbonate,E170,Mineral,Yellow,Chuna | Chaona | E170 | Khaana chuna | Calcium powder,calcium carbonate mineral e170
+sodium bicarbonate,E500,Leavening,Yellow,Meetha soda | Khane ka soda | Baking soda | E500 | Soda bicarbonate,sodium bicarbonate leavening e500
+ammonium bicarbonate,E503,Leavening,Yellow,E503 | Ammonia powder | Baker ammonia | Khameer soda,ammonium bicarbonate leavening e503
+cream of tartar,E336,Leavening,Yellow,E336 | Tartari powder | Potassium bitartrate,cream of tartar leavening e336
+calcium phosphate,E341,Mineral,Yellow,E341 | Calcium phosphate powder | Bone calcium | Tricalcium phosphate,calcium phosphate mineral e341
+dipotassium phosphate,E340,Mineral,Yellow,E340 | DKP | Potassium phosphate | Buffer salt,dipotassium phosphate mineral e340
+monocalcium phosphate,E341i,Mineral,Yellow,E341i | MCP | Leavening phosphate,monocalcium phosphate mineral e341i
+xanthan gum,E415,Thickener,Yellow,Xanthan | E415 | Thickener gum | Xanthan stabiliser,xanthan gum thickener e415
+guar gum,E412,Thickener,Yellow,Guar phal | Cluster bean gum | E412 | Gawar gum | Guavar gum,guar gum thickener e412
+locust bean gum,E410,Thickener,Yellow,E410 | Carob gum | LBG | Locust gum | Carob bean gum,locust bean gum thickener e410
+carrageenan,E407,Thickener,Yellow,E407 | Seaweed extract | Thickener | Irish moss,carrageenan thickener e407
+pectin,E440,Thickener,Yellow,E440 | Fruit pectin | Apple pectin | Phal ka gum,pectin thickener e440
+agar agar,E406,Thickener,Yellow,China grass | E406 | Agar | Kadal paasi | Seaweed gelatin | Kanten,agar agar thickener e406
+gellan gum,E418,Thickener,Yellow,E418 | Gellan | Bacterial gum | Fermentation gum,gellan gum thickener e418
+tara gum,E417,Thickener,Yellow,E417 | Tara powder | Peruvian carob gum,tara gum thickener e417
+konjac gum,E425,Thickener,Yellow,E425 | Konjac flour | Devil's tongue | Elephant yam gum | Konjac glucomannan,konjac gum thickener e425
+arabic gum,E414,Thickener,Yellow,Babool gum | Kikar gum | E414 | Acacia gum,arabic gum thickener e414
+gelatin,,Thickener,Yellow,Jelly powder | Gelatine | Agar alternative | Bone gelatin,gelatin thickener
+modified starch,E1400,Thickener,Yellow,E1400 | Modified cornflour | Processed starch | Dahi starch,modified starch thickener e1400
+corn starch,,Thickener,Yellow,Makkai ka starch | Cornflour | E1400 | Makai starch | Corn flour,corn starch thickener
+potato starch,,Thickener,Yellow,Aloo ka starch | Aloo maand | Batata starch,potato starch thickener
+tapioca starch,,Thickener,Yellow,Sabudana starch | Kochu pith | Kappa starch,tapioca starch thickener
+maltodextrin,,Thickener,Yellow,Glucose polymer | Dextrin | Starch hydrolysate | E1400 group,maltodextrin thickener
+dextrose,,Sweetener,Yellow,Angoor shakkar | Glucose powder | Grape sugar,dextrose sweetener
+fructose,,Sweetener,Yellow,Phal shakkar | Fruit sugar | Levulose,fructose sweetener
+glucose syrup,,Sweetener,Yellow,Liquid glucose | Shakkar syrup | Corn glucose,glucose syrup sweetener
+invert sugar,,Sweetener,Yellow,Palta shakkar | Artificial honey base | Invert syrup,invert sugar sweetener
+lactose,,Sweetener,Yellow,Doodh shakkar | Milk sugar,lactose sweetener
+sorbitol,E420,Sweetener,Yellow,E420 | Sugar alcohol | Sorbit | Sorbitol powder,sorbitol sweetener e420
+maltitol,E965,Sweetener,Yellow,E965 | Malt sweetener | Sugar-free sweetener,maltitol sweetener e965
+xylitol,E967,Sweetener,Yellow,E967 | Birch sugar | Sugar-free gum sweetener,xylitol sweetener e967
+erythritol,E968,Sweetener,Yellow,E968 | Zero calorie sweetener,erythritol sweetener e968
+stevia,E960,Sweetener,Yellow,Stevia patti | E960 | Meethi patti | Stevia extract | Natural sweetener,stevia sweetener e960
+monk fruit extract,,Sweetener,Yellow,Luo han guo | Lo han sweetener | Sadhu phal extract,monk fruit extract sweetener
+isomalt,E953,Sweetener,Yellow,,isomalt sweetener e953
+mannitol,E421,Sweetener,Yellow,,mannitol sweetener e421
+trehalose,,Sweetener,Yellow,,trehalose sweetener
+vegetable glycerin,E422,Humectant,Yellow,Glycerol | Glycerine | E422 | Veg glycerin | Sabzi glycerine,vegetable glycerin humectant e422
+propylene glycol,E1520,Humectant,Yellow,,propylene glycol humectant e1520
+sodium caseinate,,Protein,Yellow,,sodium caseinate protein
+whey protein concentrate,,Protein,Yellow,,whey protein concentrate protein
+soy protein isolate,,Protein,Yellow,,soy protein isolate protein
+pea protein,,Protein,Yellow,,pea protein protein
+rice protein,,Protein,Yellow,,rice protein protein
+mono and diglycerides,E471,Emulsifier,Yellow,E471 | MDG | Emulsifier 471 | Fat emulsifier,mono and diglycerides emulsifier e471
+polysorbate 80,E433,Emulsifier,Yellow,E433 | Tween 80 | Emulsifier 433,polysorbate 80 emulsifier e433
+polysorbate 60,E435,Emulsifier,Yellow,,polysorbate 60 emulsifier e435
+polysorbate 20,E432,Emulsifier,Yellow,,polysorbate 20 emulsifier e432
+sodium stearoyl lactylate,E481,Emulsifier,Yellow,,sodium stearoyl lactylate emulsifier e481
+calcium stearoyl lactylate,E482,Emulsifier,Yellow,,calcium stearoyl lactylate emulsifier e482
+datem,E472e,Emulsifier,Yellow,,datem emulsifier e472e
+hydroxypropyl methylcellulose,E464,Emulsifier,Yellow,,hydroxypropyl methylcellulose emulsifier e464
+potassium chloride,E508,Mineral,Yellow,,potassium chloride mineral e508
+calcium chloride,E509,Mineral,Yellow,,calcium chloride mineral e509
+magnesium sulfate,E518,Mineral,Yellow,,magnesium sulfate mineral e518
+sodium chloride,E508,Mineral,Yellow,,sodium chloride mineral e508
+natural flavouring,,Flavouring,Yellow,,natural flavouring flavouring
+yeast extract,,Flavouring,Yellow,Khameer extract | Yeast flavour | E627 related | Khameeri extract,yeast extract flavouring
+malt extract,,Flavouring,Yellow,Jau extract | Barley malt | Malt syrup | Malted barley extract,malt extract flavouring
+hydrolysed vegetable protein,,Flavouring,Yellow,,hydrolysed vegetable protein flavouring
+beef extract,,Flavouring,Yellow,,beef extract flavouring
+chicken extract,,Flavouring,Yellow,,chicken extract flavouring
+fish sauce,,Flavouring,Yellow,,fish sauce flavouring
+soy sauce,,Flavouring,Yellow,Soya sauce | Chini sauce | Soya saas | Manchurian sauce,soy sauce flavouring
+oyster sauce,,Flavouring,Yellow,,oyster sauce flavouring
+worcestershire sauce,,Flavouring,Yellow,,worcestershire sauce flavouring
+beta-carotene,E160a,Colour,Yellow,E160a | Vitamin A precursor | Carrot colour | Beta carotine,beta-carotene colour e160a
+beetroot powder,E162,Colour,Yellow,,beetroot powder colour e162
+paprika extract,E160c,Colour,Yellow,,paprika extract colour e160c
+annatto,E160b,Colour,Yellow,E160b | Lal rang | Sinduri rang | Bixa colour | Achiote,annatto colour e160b
+curcumin,E100,Colour,Yellow,E100 | Haldi extract | Turmeric colour | Curcuma extract,curcumin colour e100
+riboflavin,E101,Colour,Yellow,,riboflavin colour e101
+chlorophylls,E140,Colour,Yellow,,chlorophylls colour e140
+anthocyanins,E163,Colour,Yellow,,anthocyanins colour e163
+lutein,E161b,Colour,Yellow,,lutein colour e161b
+caramel colour class i,E150a,Colour,Yellow,E150a | Caramel colour | Plain caramel | Sugar caramel,caramel colour class i colour e150a
+activated charcoal,E153,Colour,Yellow,,activated charcoal colour e153
+iron oxides,E172,Colour,Yellow,,iron oxides colour e172
+copper chlorophyllin,E141,Colour,Yellow,,copper chlorophyllin colour e141
+niacin,,Vitamin,Yellow,,niacin vitamin
+thiamine,,Vitamin,Yellow,,thiamine vitamin
+riboflavin (b2),,Vitamin,Yellow,,riboflavin (b2) vitamin
+folic acid,,Vitamin,Yellow,,folic acid vitamin
+vitamin d,,Vitamin,Yellow,,vitamin d vitamin
+vitamin a,,Vitamin,Yellow,,vitamin a vitamin
+vitamin b12,,Vitamin,Yellow,,vitamin b12 vitamin
+vitamin c,,Vitamin,Yellow,,vitamin c vitamin
+vitamin k,,Vitamin,Yellow,,vitamin k vitamin
+zinc sulfate,,Mineral,Yellow,,zinc sulfate mineral
+iron (ferrous sulfate),,Mineral,Yellow,,iron (ferrous sulfate) mineral
+iodised salt,,Mineral,Yellow,Iodine namak | Tata namak | Double fort salt,iodised salt mineral
+magnesium oxide,,Mineral,Yellow,,magnesium oxide mineral
+selenium,,Mineral,Yellow,,selenium mineral
+inulin,,Dietary Fibre,Yellow,,inulin dietary fibre
+fructooligosaccharides,,Dietary Fibre,Yellow,,fructooligosaccharides dietary fibre
+psyllium husk,,Dietary Fibre,Yellow,Isabgol | Isabgul | Ispaghol | Sat isabgol,psyllium husk dietary fibre
+oat fibre,,Dietary Fibre,Yellow,,oat fibre dietary fibre
+wheat bran,,Dietary Fibre,Yellow,Gehun ki bhusi | Chokar | Godhuma thavidu,wheat bran dietary fibre
+chicory root extract,,Dietary Fibre,Yellow,,chicory root extract dietary fibre
+lactobacillus acidophilus,,Probiotic,Yellow,,lactobacillus acidophilus probiotic
+bifidobacterium,,Probiotic,Yellow,,bifidobacterium probiotic
+lactobacillus casei,,Probiotic,Yellow,,lactobacillus casei probiotic
+saccharomyces cerevisiae,,Yeast,Yellow,,saccharomyces cerevisiae yeast
+dry yeast,,Yeast,Yellow,Sukha khameer | Instant yeast | Khameer powder,dry yeast yeast
+baking powder,E450,Leavening,Yellow,Baking powder | Khameer powder | Khane wala soda | E450,baking powder leavening e450
+cream cheese,,Dairy,Yellow,,cream cheese dairy
+condensed milk,,Dairy,Yellow,Milkmaid | Mithai milk | Condensed doodh | Meetha doodh,condensed milk dairy
+evaporated milk,,Dairy,Yellow,,evaporated milk dairy
+coconut milk,,Dairy Alternative,Yellow,Nariyal ka doodh | Thengai paal | Kobbari palu | Narikela dugdha,coconut milk dairy alternative
+almond milk,,Dairy Alternative,Yellow,,almond milk dairy alternative
+soy milk,,Dairy Alternative,Yellow,,soy milk dairy alternative
+oat milk,,Dairy Alternative,Yellow,,oat milk dairy alternative
+rice milk,,Dairy Alternative,Yellow,,rice milk dairy alternative
+palm oil,,Oil,Yellow,Palm tel | Tad tel | E422 group | Vanaspati base,palm oil oil
+cottonseed oil,,Oil,Yellow,Binola tel | Kapas tel | Cotton oil,cottonseed oil oil
+rapeseed oil,,Oil,Yellow,Canola | Toria tel | Sarson group,rapeseed oil oil
+corn oil,,Oil,Yellow,Makkai tel | Bhutta tel | Maize oil,corn oil oil
+soybean oil,,Oil,Yellow,Soya tel | Soy tel | Bhatmas tel,soybean oil oil
+vanillin (natural),E636,Flavouring,Yellow,,vanillin (natural) flavouring e636
+ethyl vanillin (natural grade),E637,Flavouring,Yellow,,ethyl vanillin (natural grade) flavouring e637
+smoke flavouring,,Flavouring,Yellow,,smoke flavouring flavouring
+cocoa butter,,Fat,Yellow,Koko makkhan | Chocolate fat | Cacao butter,cocoa butter fat
+shea butter,,Fat,Yellow,,shea butter fat
+hydrogenated vegetable fat (non-trans),,Fat,Yellow,,hydrogenated vegetable fat (non-trans) fat
+interesterified fat,,Fat,Yellow,,interesterified fat fat
+carob powder,,Flavouring,Yellow,,carob powder flavouring
+licorice root extract,E745,Flavouring,Yellow,Mulethi extract | Jethi madh | Yashti madhu | E745,licorice root extract flavouring e745
+quillaja extract,E999,Foaming Agent,Yellow,,quillaja extract foaming agent e999
+sodium alginate,E401,Stabiliser,Yellow,E401 | Seaweed sodium | Kelp sodium,sodium alginate stabiliser e401
+potassium alginate,E402,Stabiliser,Yellow,,potassium alginate stabiliser e402
+calcium alginate,E404,Stabiliser,Yellow,,calcium alginate stabiliser e404
+microcrystalline cellulose,E460,Anti-caking,Yellow,,microcrystalline cellulose anti-caking e460
+silicon dioxide,E551,Anti-caking,Yellow,E551 | Silica | Anti-caking silica,silicon dioxide anti-caking e551
+calcium silicate,E552,Anti-caking,Yellow,,calcium silicate anti-caking e552
+tricalcium phosphate,E341iii,Anti-caking,Yellow,,tricalcium phosphate anti-caking e341iii
+magnesium carbonate,E504,Anti-caking,Yellow,,magnesium carbonate anti-caking e504
+sodium ferrocyanide,E535,Anti-caking,Yellow,,sodium ferrocyanide anti-caking e535
+sodium benzoate,E211,Preservative,Orange,E211 | Benzoate soda | Sodium benzoate preservative | Safed preservative,sodium benzoate preservative e211
+potassium sorbate,E202,Preservative,Orange,E202 | Sorbate | K-sorbate | Potassium preservative,potassium sorbate preservative e202
+sodium nitrite,E250,Preservative,Orange,E250 | Meat preservative | Lal preservative | Nitrite,sodium nitrite preservative e250
+sodium nitrate,E251,Preservative,Orange,E251 | Nitrate preservative | Lal namak,sodium nitrate preservative e251
+calcium propionate,E282,Preservative,Orange,E282 | Bread preservative | Calcium salt preservative,calcium propionate preservative e282
+sodium propionate,E281,Preservative,Orange,,sodium propionate preservative e281
+sulphur dioxide,E220,Preservative,Orange,E220 | SO2 | Sulphite preservative | Sulfur dioxide,sulphur dioxide preservative e220
+sodium sulphite,E221,Preservative,Orange,,sodium sulphite preservative e221
+sodium metabisulphite,E223,Preservative,Orange,E223 | Sodium metabisulfite | Sulphite powder | Metabisulphite,sodium metabisulphite preservative e223
+potassium metabisulphite,E224,Preservative,Orange,,potassium metabisulphite preservative e224
+potassium benzoate,E212,Preservative,Orange,,potassium benzoate preservative e212
+calcium benzoate,E213,Preservative,Orange,,calcium benzoate preservative e213
+benzoic acid,E210,Preservative,Orange,,benzoic acid preservative e210
+sodium diacetate,E262,Preservative,Orange,,sodium diacetate preservative e262
+propionic acid,E280,Preservative,Orange,,propionic acid preservative e280
+natamycin,E235,Preservative,Orange,,natamycin preservative e235
+lysozyme,E1105,Preservative,Orange,,lysozyme preservative e1105
+bha,E320,Antioxidant,Orange,E320 | Butylated hydroxyanisole | Antioxidant 320 | BHA preservative,bha antioxidant e320
+bht,E321,Antioxidant,Orange,E321 | Butylated hydroxytoluene | Antioxidant 321 | BHT preservative,bht antioxidant e321
+tbhq,E319,Antioxidant,Orange,E319 | Tertiary butylhydroquinone | Antioxidant 319 | TBHQ oil preservative,tbhq antioxidant e319
+sodium erythorbate,E316,Antioxidant,Orange,,sodium erythorbate antioxidant e316
+propyl gallate,E310,Antioxidant,Orange,,propyl gallate antioxidant e310
+octyl gallate,E311,Antioxidant,Orange,,octyl gallate antioxidant e311
+dodecyl gallate,E312,Antioxidant,Orange,,dodecyl gallate antioxidant e312
+monosodium glutamate,E621,Flavour Enhancer,Orange,MSG | Ajinomoto | E621 | Aji-no-moto | Chinese salt | Taste maker | Umami salt,monosodium glutamate flavour enhancer e621
+disodium inosinate,E631,Flavour Enhancer,Orange,E631 | IMP | Flavour enhancer 631,disodium inosinate flavour enhancer e631
+disodium guanylate,E627,Flavour Enhancer,Orange,E627 | GMP | Flavour enhancer 627,disodium guanylate flavour enhancer e627
+disodium ribonucleotides,E635,Flavour Enhancer,Orange,,disodium ribonucleotides flavour enhancer e635
+monopotassium glutamate,E622,Flavour Enhancer,Orange,,monopotassium glutamate flavour enhancer e622
+calcium glutamate,E623,Flavour Enhancer,Orange,,calcium glutamate flavour enhancer e623
+aspartame,E951,Sweetener,Orange,E951 | NutraSweet | Equal | Artificial sweetener 951 | Zero calorie sweetener,aspartame sweetener e951
+saccharin,E954,Sweetener,Orange,E954 | Saccharine | Sweet-N-Low | Saccharin sodium | Meethi goli,saccharin sweetener e954
+acesulfame k,E950,Sweetener,Orange,E950 | Ace-K | Acesulfame potassium | Sunett | Artificial sweetener 950,acesulfame k sweetener e950
+sucralose,E955,Sweetener,Orange,E955 | Splenda | Artificial sweetener 955 | Sucralose sweetener,sucralose sweetener e955
+cyclamate,E952,Sweetener,Orange,,cyclamate sweetener e952
+neotame,E961,Sweetener,Orange,,neotame sweetener e961
+advantame,E969,Sweetener,Orange,,advantame sweetener e969
+caramel colour iii,E150c,Colour,Orange,E150c | Ammonia caramel | Dark caramel | Soft drink caramel,caramel colour iii colour e150c
+caramel colour iv,E150d,Colour,Orange,E150d | Sulfite ammonia caramel | Cola caramel,caramel colour iv colour e150d
+sunset yellow fcf,E110,Colour,Orange,E110 | Yellow 6 | FD&C Yellow 6 | Orange yellow | Food yellow 3,sunset yellow fcf colour e110
+carmoisine,E122,Colour,Orange,E122 | Azorubine | Red food dye | Carmoisin,carmoisine colour e122
+ponceau 4r,E124,Colour,Orange,E124 | Cochineal red A | Brilliant scarlet | Food red 7,ponceau 4r colour e124
+brilliant black bn,E151,Colour,Orange,,brilliant black bn colour e151
+allura red,E129,Colour,Orange,E129 | Red 40 | FD&C Red 40 | Allura red AC | Red dye,allura red colour e129
+patent blue v,E131,Colour,Orange,,patent blue v colour e131
+quinoline yellow,E104,Colour,Orange,E104 | Quinoline yellow WS | Food yellow 13,quinoline yellow colour e104
+brilliant blue fcf,E133,Colour,Orange,E133 | Blue 1 | FD&C Blue 1 | Brilliant blue,brilliant blue fcf colour e133
+indigotine,E132,Colour,Orange,,indigotine colour e132
+green s,E142,Colour,Orange,,green s colour e142
+sodium aluminosilicate,E554,Anti-caking,Orange,,sodium aluminosilicate anti-caking e554
+aluminium sulphate,E520,Firming Agent,Orange,Phitkari | Fitkari | Alum | Potash alum,aluminium sulphate firming agent e520
+phosphoric acid,E338,Acid,Orange,E338 | Acid 338 | Cola acid | Phosphate acid,phosphoric acid acid e338
+sodium aluminium phosphate,E541,Leavening,Orange,,sodium aluminium phosphate leavening e541
+azodicarbonamide,E927a,Flour Improver,Orange,E927a | ADA | Flour bleacher | Bread improver 927a,azodicarbonamide flour improver e927a
+partially hydrogenated oils,,Fat,Orange,Dalda | Vanaspati | Trans fat oil | PHO | Hydrogenated fat,partially hydrogenated oils fat
+high fructose corn syrup,,Sweetener,Orange,HFCS | Corn syrup | Glucose-fructose syrup | Isoglucose | Maize syrup,high fructose corn syrup sweetener
+acetylated starch,E1420,Thickener,Orange,,acetylated starch thickener e1420
+hydroxypropyl starch,E1440,Thickener,Orange,,hydroxypropyl starch thickener e1440
+carboxymethyl cellulose,E466,Thickener,Orange,,carboxymethyl cellulose thickener e466
+methylcellulose,E461,Thickener,Orange,,methylcellulose thickener e461
+polydextrose,E1200,Bulking Agent,Orange,,polydextrose bulking agent e1200
+diacetyl,,Flavouring,Orange,,diacetyl flavouring
+artificial vanilla,E636,Flavouring,Orange,,artificial vanilla flavouring e636
+quinine,,Flavouring,Orange,,quinine flavouring
+potassium nitrate,E252,Preservative,Orange,,potassium nitrate preservative e252
+calcium disodium edta,E385,Preservative,Orange,,calcium disodium edta preservative e385
+disodium edta,E386,Preservative,Orange,,disodium edta preservative e386
+dimethyl dicarbonate,E242,Preservative,Orange,,dimethyl dicarbonate preservative e242
+hexamethylene tetramine,E239,Preservative,Orange,,hexamethylene tetramine preservative e239
+pimaricin,E235,Preservative,Orange,,pimaricin preservative e235
+sodium lactate,E325,Humectant,Orange,,sodium lactate humectant e325
+potassium lactate,E326,Humectant,Orange,,potassium lactate humectant e326
+calcium lactate,E327,Humectant,Orange,,calcium lactate humectant e327
+acetylated distarch adipate,E1422,Thickener,Orange,,acetylated distarch adipate thickener e1422
+hydroxypropyl distarch phosphate,E1442,Thickener,Orange,,hydroxypropyl distarch phosphate thickener e1442
+starch sodium octenylsuccinate,E1450,Thickener,Orange,,starch sodium octenylsuccinate thickener e1450
+bleached flour,,Grain,Orange,,bleached flour grain
+bromated flour,,Grain,Orange,,bromated flour grain
+artificial butter flavour,,Flavouring,Orange,,artificial butter flavour flavouring
+artificial strawberry flavour,,Flavouring,Orange,,artificial strawberry flavour flavouring
+artificial mango flavour,,Flavouring,Orange,,artificial mango flavour flavouring
+artificial cream flavour,,Flavouring,Orange,,artificial cream flavour flavouring
+artificial chocolate flavour,,Flavouring,Orange,,artificial chocolate flavour flavouring
+artificial pineapple flavour,,Flavouring,Orange,,artificial pineapple flavour flavouring
+artificial orange flavour,,Flavouring,Orange,,artificial orange flavour flavouring
+artificial lemon flavour,,Flavouring,Orange,,artificial lemon flavour flavouring
+artificial rose flavour,,Flavouring,Orange,,artificial rose flavour flavouring
+artificial kewra flavour,,Flavouring,Orange,,artificial kewra flavour flavouring
+artificial elaichi flavour,,Flavouring,Orange,,artificial elaichi flavour flavouring
+saccharin sodium,E954,Sweetener,Orange,,saccharin sodium sweetener e954
+sodium cyclamate,E952,Sweetener,Orange,,sodium cyclamate sweetener e952
+calcium cyclamate,E952,Sweetener,Orange,,calcium cyclamate sweetener e952
+aluminium ammonium sulphate,E523,Firming Agent,Orange,,aluminium ammonium sulphate firming agent e523
+aluminium potassium sulphate,E522,Firming Agent,Orange,,aluminium potassium sulphate firming agent e522
+bleaching agent (benzoyl peroxide),E928,Flour Treatment,Orange,,bleaching agent (benzoyl peroxide) flour treatment e928
+chlorine dioxide,E926,Flour Treatment,Orange,,chlorine dioxide flour treatment e926
+chlorine gas,E925,Flour Treatment,Orange,,chlorine gas flour treatment e925
+dough conditioner (l-cysteine),E920,Flour Treatment,Orange,,dough conditioner (l-cysteine) flour treatment e920
+brominated flour,,Flour Treatment,Orange,,brominated flour flour treatment
+propylene glycol alginate,E405,Stabiliser,Orange,,propylene glycol alginate stabiliser e405
+cellulose gum,E466,Stabiliser,Orange,,cellulose gum stabiliser e466
+glycerol,E422,Humectant,Orange,,glycerol humectant e422
+triacetin,E1518,Humectant,Orange,,triacetin humectant e1518
+dioctyl sodium sulfosuccinate,E480,Emulsifier,Orange,,dioctyl sodium sulfosuccinate emulsifier e480
+sodium lauryl sulphate,E487,Emulsifier,Orange,,sodium lauryl sulphate emulsifier e487
+stearic acid,E570,Anti-caking,Orange,,stearic acid anti-caking e570
+beeswax,E901,Glazing Agent,Orange,E901 | Mombatti maam | Shahad maam | Madhu maam,beeswax glazing agent e901
+carnauba wax,E903,Glazing Agent,Orange,E903 | Fruit shine wax | Brazil wax,carnauba wax glazing agent e903
+shellac,E904,Glazing Agent,Orange,E904 | Laakh | Lac | Fruit polish coating,shellac glazing agent e904
+tartrazine,E102,Colour,Red,E102 | Yellow 5 | FD&C Yellow 5 | Lemon yellow dye | Food yellow 4,tartrazine colour e102
+erythrosine,E127,Colour,Red,E127 | Red 3 | FD&C Red 3 | Banned pink dye,erythrosine colour e127
+amaranth dye,E123,Colour,Red,E123 | Red 2 | Banned red dye | Anar rang,amaranth dye colour e123
+red 2g,E128,Colour,Red,,red 2g colour e128
+chocolate brown ht,E155,Colour,Red,,chocolate brown ht colour e155
+violet bnp,,Colour,Red,,violet bnp colour
+sudan red,,Colour,Red,,sudan red colour
+metanil yellow,,Colour,Red,Metanil yellow dye | Acid yellow 36 | Turmeric adulterant | Illegal yellow dye,metanil yellow colour
+rhodamine b,,Colour,Red,Rhodamine B dye | Illegal red dye | Chilli adulterant | Banned pink dye,rhodamine b colour
+malachite green,,Colour,Red,Malachite green dye | Banned fish dye | Green adulterant,malachite green colour
+lead chromate,,Colour,Red,Lead chromate yellow | Haldi adulterant | Illegal yellow pigment,lead chromate colour
+auramine,,Colour,Red,,auramine colour
+fast green fcf,E143,Colour,Red,,fast green fcf colour e143
+titanium dioxide,E171,Colour,Red,E171 | TiO2 | Safedi powder | White colour,titanium dioxide colour e171
+potassium bromate,E924,Flour Improver,Red,E924 | Bromate | Flour improver 924 | Banned bread additive,potassium bromate flour improver e924
+brominated vegetable oil,E443,Emulsifier,Red,E443 | BVO | Citrus oil emulsifier,brominated vegetable oil emulsifier e443
+cyclamate (banned use),E952,Sweetener,Red,,cyclamate (banned use) sweetener e952
+dulcin,,Sweetener,Red,,dulcin sweetener
+p-4000,,Sweetener,Red,,p-4000 sweetener
+coumarin,,Flavouring,Red,Dalchini fragrance | Tonka bean extract,coumarin flavouring
+safrole,,Flavouring,Red,,safrole flavouring
+beta-asarone,,Flavouring,Red,,beta-asarone flavouring
+diethylene glycol,,Solvent,Red,,diethylene glycol solvent
+melamine,,Adulterant,Red,Protein adulterant | Doodh milavat | Plastic compound,melamine adulterant
+formaldehyde,,Preservative,Red,Formalin | Fish adulterant | Doodh milavat preservative,formaldehyde preservative
+boric acid,,Preservative,Red,Suhaga acid | Borax acid | Boric preservative,boric acid preservative
+calcium sulphite,E226,Preservative,Red,,calcium sulphite preservative e226
+nitrofurans,,Antibiotic Residue,Red,,nitrofurans antibiotic residue
+chloramphenicol,,Antibiotic Residue,Red,,chloramphenicol antibiotic residue
+ractopamine,,Growth Promoter,Red,,ractopamine growth promoter
+ddt,,Pesticide Residue,Red,DDT keetnashak | Banned pesticide | Dichlorodiphenyltrichloroethane,ddt pesticide residue
+trans fatty acids (>2%),,Fat,Red,Trans fat | Vanaspati trans fat | Dalda trans,trans fatty acids (>2%) fat
+argemone oil,,Oil Adulterant,Red,Satyanashi tel | Kateli oil | Sarson adulterant,argemone oil oil adulterant
+mineral oil (food adulteration),,Oil Adulterant,Red,,mineral oil (food adulteration) oil adulterant
+urea in milk,,Adulterant,Red,Urea milk adulterant | Carbamide adulterant | Synthetic milk,urea in milk adulterant
+hydrogen peroxide (excess),,Bleach,Red,,hydrogen peroxide (excess) bleach
+aluminium-based lake colours,,Colour,Red,,aluminium-based lake colours colour
+castoreum,,Flavouring,Red,,castoreum flavouring
+monobromoacetic acid,,Preservative,Red,,monobromoacetic acid preservative
+dehydroacetic acid,E265,Preservative,Red,,dehydroacetic acid preservative e265
+biphenyl,E230,Preservative,Red,,biphenyl preservative e230
+orthophenyl phenol,E231,Preservative,Red,,orthophenyl phenol preservative e231
+thiabendazole,E233,Preservative,Red,,thiabendazole preservative e233
+dimethyl fumarate,,Preservative,Red,,dimethyl fumarate preservative
+cyanuric acid,,Adulterant,Red,,cyanuric acid adulterant
+starch adulterant in spices,,Adulterant,Red,Maida adulterant | Arrowroot adulterant | Spice starch filler,starch adulterant in spices adulterant
+chalk in flour,,Adulterant,Red,Chalk powder adulterant | Calcium carbonate filler | Atta adulterant,chalk in flour adulterant
+washing soda in vegetables,,Adulterant,Red,Soda adulteration | Hariyali sodium | Artificial green | Sodium carbonate adulteration,washing soda in vegetables adulterant
+carbide (calcium carbide) in fruits,,Adulterant,Red,Carbide | Pathhar | Calcium carbide ripening | Mango ripening agent,carbide (calcium carbide) in fruits adulterant
+"saccharin (excess, in india)",E954,Sweetener,Red,,"saccharin (excess, in india) sweetener e954"
+artificial food dyes (unlisted),,Colour,Red,,artificial food dyes (unlisted) colour
+propylene oxide,,Fumigant,Red,,propylene oxide fumigant
+ethylene oxide,,Fumigant,Red,,ethylene oxide fumigant
+methyl bromide,,Fumigant,Red,,methyl bromide fumigant
+lindane,,Pesticide Residue,Red,Gammexane | BHC | Banned keetnashak,lindane pesticide residue
+endosulfan,,Pesticide Residue,Red,Thiodan | Banned insecticide | Endosulfan keetnashak,endosulfan pesticide residue
+aldrin,,Pesticide Residue,Red,,aldrin pesticide residue
+dieldrin,,Pesticide Residue,Red,,dieldrin pesticide residue
+chlordane,,Pesticide Residue,Red,,chlordane pesticide residue
+heptachlor,,Pesticide Residue,Red,,heptachlor pesticide residue
+pcbs in fish,,Contaminant,Red,,pcbs in fish contaminant
+mercury in seafood,,Contaminant,Red,Paara dhatu | Heavy metal machli,mercury in seafood contaminant
+lead in spices,,Contaminant,Red,Seesa milavat | Lead masala adulterant,lead in spices contaminant
+arsenic in rice,,Contaminant,Red,Sankhiya chawal | Arsenic contamination,arsenic in rice contaminant
+cadmium in cereals,,Contaminant,Red,,cadmium in cereals contaminant
+aflatoxin,,Mycotoxin,Red,Aflatoxin B1 | Moongfali toxin | Fungal toxin,aflatoxin mycotoxin
+ochratoxin a,,Mycotoxin,Red,,ochratoxin a mycotoxin
+deoxynivalenol,,Mycotoxin,Red,,deoxynivalenol mycotoxin
+zearalenone,,Mycotoxin,Red,,zearalenone mycotoxin
+fumonisins,,Mycotoxin,Red,,fumonisins mycotoxin
+patulin,,Mycotoxin,Red,,patulin mycotoxin
+spices and condiments,,auto-learned,Green,,spices and condiments auto-learned
+vegetables,,auto-learned,Green,,vegetables auto-learned
+edible vegetable oil,,auto-learned,Green,,edible vegetable oil auto-learned
+protein,,auto-learned,Yellow,,protein auto-learned
+spices,,auto-learned,Green,,spices auto-learned
+wheat and peanut,,auto-learned,Green,,wheat and peanut auto-learned
+vegetable oil,,auto-learned,Green,,
